@@ -21,7 +21,7 @@
 # that it may be overwritten next time you update the application.
 #
 # The latest version of this file can be found at:
-#   <https://github.com/erengy/taiga>
+#   <https://github.com/erengy/anime-relations>
 #
 # This file is in the public domain.
 
