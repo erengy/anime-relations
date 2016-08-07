@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-08-06
+- last_modified: 2016-08-07
 
 ::rules
 
@@ -167,6 +167,9 @@
 - 23199|8314:13-24 -> 27831|9726:1-12!
 # Durarara!!x2 Shou -> Durarara!!x2 Ketsu
 - 23199|8314:25-36 -> 27833|9725:1-12!
+
+# Elfen Lied -> ~ Special
+- 226|201:14 -> 376|343:1
 
 # Fairy Tail -> ~ (2014)
 - 6702|4676:176-277 -> 22043|8203:1-102!
