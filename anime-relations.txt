@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-08-06
+- last_modified: 2016-08-26
 
 ::rules
 
@@ -425,6 +425,9 @@
 
 # Saenai Heroine no Sodatekata -> ~: Ai to Seishun no Service Kai
 - 23277|8406:0 -> 29317|10225:1
+
+# Saint Seiya: The Lost Canvas - Meiou Shinwa -> ~ 2
+- 6171|4458:14-26 -> 9130|5612:1-13
 
 # Saki Achiga-hen: Episode of Side-A -> ~: Specials
 - 10884|6392:13-16 -> 15989|7353:1-4

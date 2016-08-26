@@ -75,4 +75,4 @@ By appending an `!` to the rule, we also handled the cases such as `Fate Zero S2
 
 ## License
 
-`anime-relations.txt` is in the public domain.
+This repository is in the public domain.
