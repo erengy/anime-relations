@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-08-26
+- last_modified: 2016-09-24
 
 ::rules
 
@@ -105,6 +105,9 @@
 - 9539|5781:105-163 -> 15611|7283:1-59!
 # Cardfight!! Vanguard -> ~: Legion Mate-hen
 - 9539|5781:164-196 -> 21729|8264:1-33!
+
+# Charlotte -> ~: Tsuyoi Monotachi
+- 28999|10103:14 -> 31553|11365:1
 
 # Chihayafuru 2 -> ~: Waga Mi Yo ni Furu Nagame Seshi Ma ni
 - 14397|7123:26 -> 18745|7814:1
@@ -384,6 +387,11 @@
 # Nodame Cantabile Finale -> ~ Special
 - 5690|4248:0 -> 8038|5177:1
 
+# Non Non Biyori -> ~: Okinawa e Ikukoto ni Natta
+- 17549|7711:13 -> 21667|8187:1
+# Non Non Biyori Repeat -> ~ OVA
+- 23623|8410:13 -> 32547|11767:1
+
 # Ojisan to Marshmallow -> ~ Special
 - 31848|11261:13 -> 33201|12057:1
 
@@ -531,6 +539,9 @@
 
 # UN-GO -> ~: Inga-ron
 - 10798|6353:0 -> 11531|6529:1
+
+# Urawa no Usagi-chan -> ~ Special
+- 27927|9949:13 -> 31426|11345:1
 
 # Ushio to Tora (TV) -> ~ 2nd Season
 - 29854|10359:27-39 -> 31098|11126:1-13!
