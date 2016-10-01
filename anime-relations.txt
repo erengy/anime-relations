@@ -437,7 +437,7 @@
 # Saint Seiya: The Lost Canvas - Meiou Shinwa -> ~ 2
 - 6171|4458:14-26 -> 9130|5612:1-13
 
-# Sakamoto desu ga -> ~ Special
+# Sakamoto desu ga? -> ~ Special
 - 32542|11751:13 -> 33524|12278:1
 
 # Saki Achiga-hen: Episode of Side-A -> ~: Specials
