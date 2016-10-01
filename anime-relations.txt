@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-09-24
+- last_modified: 2016-10-01
 
 ::rules
 
@@ -436,6 +436,9 @@
 
 # Saint Seiya: The Lost Canvas - Meiou Shinwa -> ~ 2
 - 6171|4458:14-26 -> 9130|5612:1-13
+
+# Sakamoto desu ga -> ~ Special
+- 32542|11751:13 -> 33524|12278:1
 
 # Saki Achiga-hen: Episode of Side-A -> ~: Specials
 - 10884|6392:13-16 -> 15989|7353:1-4
