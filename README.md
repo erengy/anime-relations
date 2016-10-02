@@ -72,6 +72,7 @@ By appending an `!` to the rule, we also handled the cases such as `Fate Zero S2
 2. Create a new rule and place it in alphabetical order.
 3. Update the `last_modified` date in `YYYY-MM-DD` format.
 4. Make sure the rule is working, by testing it before sending a pull request.
+5. In the pull request, indicate which fansub groups' releases require the new rule.
 
 ## License
 
