@@ -93,6 +93,9 @@
 - 6772|4708:5 -> 9724|5837:1
 - 6772|4708:6 -> 10092|6031:1
 
+# Bubuki Buranki -> ~: Hoshi no Kyojin
+- 32023|11486:13-? -> 33041|12004:1-?
+
 # C³ -> ~ Special
 - 10578|6249:13 -> 12505|6751:1
 
@@ -350,6 +353,9 @@
 # Lupin III (2015) -> ~ Specials
 - 27947|9958:25-26 -> 33074|12018:1-2
 
+# Magic Knight Rayearth -> ~ II
+- 435|399:21-49 -> 1563|1403:1-29
+
 # Major S1 -> ~ S2,S3,S4,S5,S6
 - 627|582:27-52 -> 558|515:1-26!
 - 627|582:53-78 -> 1842|1659:1-26!
@@ -422,6 +428,9 @@
 
 # Phi Brain: Kami no Puzzle -> ~ - Orpheus Order-hen
 - 9981|5978:26-50 -> 12753|6803:1-25!
+
+# Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
+- 33142|12047:12-25 -> 33569|12313:1-14
 
 # Recorder to Randoseru Do♪ -> Recorder to Randoseru Re♪
 - 11491|6519:14-26 -> 13377|6951:1-13!
