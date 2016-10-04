@@ -379,6 +379,9 @@
 # Marie & Gali -> ~ Episode Zero
 - 6130|4440:0 -> 6355|4530:1
 
+# Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
+- 31251|11206:26-50 -> 33051|12005:1-25!
+
 # Mushishi Zoku Shou -> ~ Special
 - 21939|8204:11-12 -> 24687|8519:1
 # Mushishi Zoku Shou -> ~ 2nd Season
