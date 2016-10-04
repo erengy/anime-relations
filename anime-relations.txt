@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-10-02
+- last_modified: 2016-10-04
 
 ::rules
 
@@ -78,7 +78,7 @@
 # Bishoujo Senshi Sailor Moon -> ~: Sailor Stars
 - 530|489:167-200 -> 996|886:1-34!
 # Bishoujo Senshi Sailor Moon Crystal -> ~ Season III
-- 14751|7163:27-? -> 31733|11415:1-?!
+- 14751|7163:27-39 -> 31733|11415:1-13!
 
 # Black Lagoon -> ~: The Second Barrage
 - 889|789:13-24 -> 1519|1363:1-12!
@@ -138,7 +138,7 @@
 - 8888|5518:5 -> 30711|10904:1
 
 # Concrete Revolutio: Choujin Gensou -> ~ - The Last Song
-- 31147|11165:14-? -> 32313|11620:1-?!
+- 31147|11165:14-24 -> 32313|11620:1-11!
 
 # Dakara Boku wa, H ga Dekinai. -> ~ OVA
 - 12549|7656:13 -> 14893|7180:1
@@ -269,7 +269,9 @@
 # Kaitou Joker -> ~ 2nd Season
 - 24909|8664:14-26 -> 28869|10070:1-13!
 # Kaitou Joker -> ~ 3rd Season
-- 24909|8664:27-? -> 31670|11393:1-?!
+- 24909|8664:27-39 -> 31670|11393:1-13!
+# Kaitou Joker -> ~ 4th Season
+- 24909|8664:40-? -> 33490|12361:1-?!
 
 # Kakumeiki Valvrave -> ~ 2nd Season
 - 16668|7487:13-24 -> 18295|7698:1-12!
