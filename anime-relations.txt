@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-10-04
+- last_modified: 2016-10-06
 
 ::rules
 
@@ -95,6 +95,9 @@
 
 # Bubuki Buranki -> ~: Hoshi no Kyojin
 - 32023|11486:13-? -> 33041|12004:1-?
+
+# Bungou Stray Dogs -> ~ 2nd Season
+- 31478|11339:13-24 -> 32867|11882:1-12!
 
 # C³ -> ~ Special
 - 10578|6249:13 -> 12505|6751:1
@@ -255,6 +258,9 @@
 # Itsuka Tenma no Kuro Usagi -> ~ OVA
 - 9750|5850:13 -> 10934|6412:1
 
+# Ginga Kikoutai Majestic Prince -> ~: Mirai e no Tsubasa
+- 15863|7325:25 -> 33024|12002:1
+
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
 - 20899|8063:25-48 -> 26055|8739:1-24!
 
@@ -381,6 +387,9 @@
 
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206:26-50 -> 33051|12005:1-25!
+
+# Musaigen no Phantom World -> ~ Special
+- 31442|11333:14 -> 33075|11686:1
 
 # Mushishi Zoku Shou -> ~ Special
 - 21939|8204:11-12 -> 24687|8519:1
@@ -521,6 +530,8 @@
 - 15125|7217:61-72 -> 31440|11334:1-12!
 # Teekyuu -> ~ 7
 - 15125|7217:73-84 -> 32228|11597:1-12!
+# Teekyuu -> ~ 8
+- 15125|7217:85-? -> 33811|12473:1-?!
 
 # Teekyuu 2 Specials -> ~ 3,4,5,6
 - 21201|8078:3-4 -> 22335|8289:1-2
