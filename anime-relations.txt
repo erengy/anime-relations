@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-10-06
+- last_modified: 2016-10-08
 
 ::rules
 
@@ -198,6 +198,11 @@
 
 # Gantz -> ~ 2nd Stage
 - 384|351:14-26 -> 395|362:1-13!
+
+# Garo: Honoo no Kokuin -> ~ - Home
+- 23311|8409:25 -> 32415|11837:1
+# Garo: Guren no Tsuki -> ~ Special
+- 28537|10045:24 -> 33709|12631:1
 
 # Gatchaman Crowds Insight -> ~: Inbound
 - 21039|8180:0 -> 30925|11033:1
