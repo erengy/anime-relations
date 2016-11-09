@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-10-23
+- last_modified: 2016-11-09
 
 ::rules
 
@@ -196,6 +196,9 @@
 # Futsuu no Joshikousei ga [Locodol] Yattemita. -> ~ OVA
 - 22189|8267:14-15 -> 30988|11077:1-2
 
+# Gakkou no Kaidan -> ~: Kubinashi Rider!! Shi no Noroi
+- 1281|1156:20 -> 30825|11004:1
+
 # Gakusen Toshi Asterisk -> ~ 2nd Season
 - 30544|10857:13-24 -> 31737|11421:1-12!
 
@@ -228,6 +231,9 @@
 
 # Hagure Yuusha no Aesthetica: Hajirai Ippai -> Queen's Blade Rebellion vs. Hagure Yuusha no Aesthetica
 - 15729|7298:0 -> 14663|7152:1
+
+# Haitai Nanafa -> ~ 2nd Season
+- 15043|7201:14-26 -> 17727|7721:1-13!
 
 # Haiyoru! Nyaruani: Remember My Love(craft-sensei) -> ~ Special
 - 9598|7808:12 -> 10477|5803:1
@@ -396,6 +402,9 @@
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206:26-50 -> 33051|12005:1-25!
 
+# Monster Farm: Enbanseki no Himitsu -> Monster Farm: Legend e no Michi
+- 1469|1315:49-73 -> 13201|6909:1-25
+
 # Musaigen no Phantom World -> ~ Special
 - 31442|11333:14 -> 33075|11686:1
 
@@ -458,6 +467,9 @@
 - 11491|6519:14-26 -> 13377|6951:1-13!
 # Recorder to Randoseru Mi☆ -> ~ Special
 - 18099|7695:13 -> 24935|8569:1
+
+# Rinne no Lagrange -> ~ Season 2
+- 11227|6477:13-24 -> 18639|7919:1-12
 
 # Rurouni Kenshin: Meiji Kenkaku Romantan -> ~ Special
 - 45|27:95 -> 12067|6659:1
@@ -562,6 +574,9 @@
 - 13851|7047:7-? -> 31380|11418:1-?
 # To LOVE-Ru Darkness 2nd -> ~ Specials
 - 28979|?:13-14 -> 31711|?:1-2
+
+# Tokyo Majin Gakuen Kenpucho: Tou -> ~ Dai Ni Maku
+- 1860|1677:15-26 -> 2683|2445:1-12!
 
 # Towa no Quon 1 -> ~ 2,3,4,5,6
 - 10294|6116:2 -> 10713|6310:1
