@@ -41,6 +41,9 @@
 # Acchi Kocchi (TV) -> ~: Place=Princess
 - 12291|6701:13 -> 16273|7401:1
 
+# Ai Mai Mi: Mousou Catastrophe -> ~ Special
+- 23551|8498:13 -> 25439|8786:1
+
 # Akagami no Shirayuki-hime -> ~ 2nd Season
 - 30123|10621:13-24 -> 31173|11179:1-12!
 
@@ -83,6 +86,9 @@
 # Black Lagoon -> ~: The Second Barrage
 - 889|789:13-24 -> 1519|1363:1-12!
 
+# Blood Lad -> ~ OVA
+- 11633|6552:11 -> 18441|7724:1
+
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316:0 -> 10897|6397:1
 
@@ -115,6 +121,9 @@
 # Charlotte -> ~: Tsuyoi Monotachi
 - 28999|10103:14 -> 31553|11365:1
 
+# Chi's Sweet Home -> ~ OVA
+- 3841|3293:105 -> 	7972|5166:1
+
 # Chihayafuru 2 -> ~: Waga Mi Yo ni Furu Nagame Seshi Ma ni
 - 14397|7123:26 -> 18745|7814:1
 
@@ -143,8 +152,14 @@
 # Concrete Revolutio: Choujin Gensou -> ~ - The Last Song
 - 31147|11165:14-24 -> 32313|11620:1-11!
 
+# D-Frag! -> ~ OVA
+- 20031|8001:13 -> 23383|8414:1
+
 # Dakara Boku wa, H ga Dekinai. -> ~ OVA
 - 12549|7656:13 -> 14893|7180:1
+
+# Danna ga Nani wo Itteiru ka Wakaranai Ken -> ~ 2 Sure-me
+- 26349|8891:13-26 -> 29067|10148:1-13
 
 # Darker than Black: Kuro no Keiyakusha -> ~ Special
 - 2025|1824:26 -> 4182|3506:1
@@ -154,8 +169,14 @@
 # Date A Live II -> Date A Live: Encore OVA
 - 19163|7864:11 -> 22961|8511:1
 
+# Deadman Wonderland -> ~ OVA
+- 6880|4765:13 -> 10418|6172:1
+
 # Denpa Onna to Seishun Otoko -> ~ Special
 - 9379|5710:13 -> 10638|6276:1
+
+# Detroit Metal City -> ~: Birth of the Metal Devil
+- 3702|3202:13 -> 5065|3911:1
 
 # Digimon Adventure tri. 1: Saikai -> ~ 2: Ketsui
 - 25687|8684:5-8 -> 32108|11546:1
@@ -204,6 +225,8 @@
 # Garo: Guren no Tsuki -> ~ Special
 - 28537|10045:24 -> 33709|12631:1
 
+# Gatchaman Crowds -> ~: Embrace
+- 18229|7681:13 -> 21039|8180:1
 # Gatchaman Crowds Insight -> ~: Inbound
 - 21039|8180:0 -> 30925|11033:1
 
@@ -610,6 +633,9 @@
 
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712:13 -> 1843|1660:1
+
+# Yowamushi Pedal -> ~: Grande Road
+- 18179|7700:39-62 -> 24277|8635:1-24
 
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. -> ~ OVA
 - 18677|7725:13 -> 20545|8029:1
