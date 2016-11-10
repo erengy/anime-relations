@@ -530,6 +530,13 @@
 # Shelter -> ~
 - 34240|12668:0 -> ~|~:1
 
+# Shikabane Hime: Aka -> Shikabane Hime: Kuro
+- 4581|7666:14-25 -> 5034|7667:1-12
+# Shikabane Hime: Aka -> Shikabane Hime: Kuro Special
+- 4581|7666:26 -> 6344|3695:1
+# Shikabane Hime: Kuro -> ~ Special
+- 5034|7667:13 -> 6344|3695:1
+
 # Shugo Chara! -> ~! Doki
 - 2923|2648:52-102 -> 5262|4019:1-51!
 
@@ -607,6 +614,9 @@
 
 # Tsubasa Chronicle -> ~ 2nd Season
 - 177|154:27-52 -> 969|859:1-26
+
+# Uchuu Kyoudai -> ~: Number Zero
+- 12431|6729:0 -> 22583|8358:1
 
 # Under the Dog -> ~ Episode 0
 - 27387|9098:0 -> 27387|9098:1
