@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-11-09
+- last_modified: 2016-11-10
 
 ::rules
 
@@ -223,6 +223,9 @@
 # Gintama -> ~°
 - 918|818:266-316 -> 28977|10083:1-51!
 
+# Glass no Hana to Kowasu Sekai -> ~
+- 25907|8971:0 -> ~|~:1
+
 # God Eater -> ~ Prologue
 - 27631|9130:0 -> 10470|6197:1
 
@@ -369,6 +372,9 @@
 # Love Hina -> ~: Motoko's Choice, Love or the Sword - Don't Cry
 - 189|166:25 -> 963|853:1
 
+# Love Live! The School Idol Movie -> ~
+- 24997|8531:0 -> ~|~:1
+
 # Lovedol: Lovely Idol -> ~ OVA
 - 1561|1401:13 -> 6227|4484:1
 
@@ -421,6 +427,9 @@
 # Nichijou -> ~: Nichijou no 0-wa
 - 10165|6062:0 -> 8857|5512:1
 
+# Noblesse: Awakening -> ~
+- 32668|11806:0 -> ~|~:1
+
 # Nodame Cantabile Finale -> ~ Special
 - 5690|4248:0 -> 8038|5177:1
 
@@ -434,6 +443,8 @@
 
 # One Piece: Strong World -> ~ Episode 0
 - 4155|3492:0 -> 8740|5469:1
+# One Piece: Heart of Gold -> ~
+- 33338|12228:0 -> ~|~:1
 
 # Onee-chan ga Kita -> ~ Special
 - 20931|8083:13 -> 23427|8343:1
@@ -454,8 +465,11 @@
 # Papa no Iukoto wo Kikinasai! -> ~ OVA
 - 11179|6469:14-15 -> 17875|7685:1-2
 
-# Persona 4 The Animation -> ~: No One is Alone
+# Persona 4 the Animation -> ~: No One is Alone
 - 10588|6255:26 -> 13587|6997:1
+
+# Persona 5 the Animation: The Day Breakers -> ~
+- 31645|11602:0 -> ~|~:1
 
 # Phi Brain: Kami no Puzzle -> ~ - Orpheus Order-hen
 - 9981|5978:26-50 -> 12753|6803:1-25!
@@ -512,6 +526,9 @@
 
 # Seto no Hanayome -> ~ OVA
 - 2104|1903:27-28 -> 4163|3498:1-2
+
+# Shelter -> ~
+- 34240|12668:0 -> ~|~:1
 
 # Shugo Chara! -> ~! Doki
 - 2923|2648:52-102 -> 5262|4019:1-51!
@@ -628,6 +645,13 @@
 
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712:13 -> 1843|1660:1
+
+# Yowamushi Pedal: Re:RIDE -> ~
+- 25755|8657:0 -> ~|~:1
+# Yowamushi Pedal: Re:ROAD -> ~
+- 30790|10940:0 -> ~|~:1
+# Yowamushi Pedal Movie -> ~
+- 30413|10769:0 -> ~|~:1
 
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. -> ~ OVA
 - 18677|7725:13 -> 20545|8029:1
