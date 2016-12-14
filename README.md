@@ -8,8 +8,8 @@ This repository includes anime relation data for [Taiga](https://github.com/eren
     └─┬─┘ └─┬─┘ └────────┬────────┘    └─┬─┘ └─┬─┘ └────────┬────────┘└┬─┘
       1     2            3               1     2            3          4
 
-1. MyAnimeList ID - `http://myanimelist.net/anime/{id}/{title}`
-2. Hummingbird ID - `http://hummingbird.me/api/v1/search/anime?query={title}`
+1. MyAnimeList ID - `https://myanimelist.net/anime/{id}/{title}`
+2. Kitsu ID - `https://kitsu.io/api/edge/anime?filter[text]={title}`
 3. Episode number or range (`?` is used for unknown episode count)
 4. Appending `!` to a rule is a shorthand for creating a new rule where destination ID is redirected to itself
 
@@ -68,7 +68,7 @@ By appending an `!` to the rule, we also handled the cases such as `Fate Zero S2
 
 ## How to contribute
 
-1. Look up MyAnimeList and Hummingbird IDs of both anime.
+1. Look up MyAnimeList and Kitsu IDs of both anime.
 2. Create a new rule and place it in alphabetical order, using the main title from MyAnimeList.
 3. Update the `last_modified` date in `YYYY-MM-DD` format.
 4. Make sure the rule is working, by testing it before sending a pull request.
