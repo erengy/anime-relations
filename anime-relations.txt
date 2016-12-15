@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-11-10
+- last_modified: 2016-12-15
 
 ::rules
 
@@ -71,6 +71,11 @@
 
 # Baccano! -> ~ Specials
 - 2251|2039:14-16 -> 3901|3334:1-3
+
+# Bikini Warriors -> ~ Special
+- 30782|10920:13 -> 31283|11216:1
+# Bikini Warriors -> ~ OVA
+- 30782|10920:14-15 -> 33712|12452:1-2
 
 # Bishoujo Senshi Sailor Moon -> ~ R
 - 530|489:47-89 -> 740|664:1-43!
@@ -429,6 +434,9 @@
 
 # Noblesse: Awakening -> ~
 - 32668|11806:0 -> ~|~:1
+
+# Nobunaga no Shinobi -> ~ Episode 0
+- 32829|11871:0 -> 34283|12672:1
 
 # Nodame Cantabile Finale -> ~ Special
 - 5690|4248:0 -> 8038|5177:1
