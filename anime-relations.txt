@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2016-12-15
+- last_modified: 2017-01-08
 
 ::rules
 
@@ -220,6 +220,9 @@
 
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri -> ~ 2nd Season
 - 28907|10085:13-24 -> 31637|11376:1-12!
+
+# Getsuyoubi no Tawawa -> ~ Specials
+- 34213|?:13-14 -> 34481|?:1-2
 
 # Gintama -> ~'
 - 918|818:202-252 -> 9969|5971:1-51!
@@ -426,6 +429,9 @@
 # Mushishi Zoku Shou -> ~: Suzu no Shizuku
 - 21939|8204:23-24 -> 28957|10084:1
 
+# Nanbaka -> ~ (2017)
+- 30016|10467:14-25 -> 34414|12768:1-12!
+
 # Nazo no Kanojo X -> ~: Nazo no Natsu Matsuri
 - 12467|6740:14 -> 13093|6882:1
 
@@ -492,6 +498,8 @@
 
 # Rinne no Lagrange -> ~ Season 2
 - 11227|6477:13-24 -> 18639|7919:1-12
+# Rinne no Lagrange Specials -> Rinne no Lagrange Season 2 Specials
+- 14583|7139:7-12 -> 18639|7919:1-6
 
 # Rurouni Kenshin: Meiji Kenkaku Romantan -> ~ Special
 - 45|27:95 -> 12067|6659:1
@@ -553,6 +561,9 @@
 
 # Soukyuu no Fafner: Dead Aggressor - Exodus -> ~ 2nd Season
 - 17080|7575:14-26 -> 30549|10854:1-13!
+
+# Soushin Shoujo Matoi -> ~ Special
+- 33668|?:13 -> 34538|?:1
 
 # Suisei no Gargantia -> ~ Specials
 - 16524|7449:14-15 -> 19211|7872:1-2
