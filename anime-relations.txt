@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-01-08
+- last_modified: 2017-01-09
 
 ::rules
 
@@ -230,6 +230,8 @@
 - 918|818:253-265 -> 15417|7253:1-13!
 # Gintama -> ~°
 - 918|818:266-316 -> 28977|10083:1-51!
+# Gintama -> ~.
+- 918|818:317-? -> 34096|12553:1-?!
 
 # Glass no Hana to Kowasu Sekai -> ~
 - 25907|8971:0 -> ~|~:1
@@ -572,6 +574,8 @@
 
 # Tales of Zestiria the X -> ~: Saiyaku no Jidai
 - 30911|11023:0 -> 33558|12283:1
+# Tales of Zestiria the X -> ~ 2nd Season
+- 30911|11023:13-? -> 34086|12294:1-?
 
 # Tamayura: Sotsugyou Shashin Part 1 -> ~ 2,3,4
 - 25729|8808:2 -> 29829|10439:1
