@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-01-09
+- last_modified: 2017-01-14
 
 ::rules
 
@@ -497,6 +497,9 @@
 - 11491|6519:14-26 -> 13377|6951:1-13!
 # Recorder to Randoseru Mi☆ -> ~ Special
 - 18099|7695:13 -> 24935|8569:1
+
+# Rewrite -> ~: Moon and Terra
+- 31716|11410:14-? -> 34126|12861:1-?
 
 # Rinne no Lagrange -> ~ Season 2
 - 11227|6477:13-24 -> 12281|6699:1-12
