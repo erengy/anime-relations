@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-01-14
+- last_modified: 2017-01-21
 
 ::rules
 
@@ -119,6 +119,9 @@
 - 9539|5781:105-163 -> 15611|7283:1-59!
 # Cardfight!! Vanguard -> ~: Legion Mate-hen
 - 9539|5781:164-196 -> 21729|8264:1-33!
+
+# ChäoS;Child -> ~ Episode 0
+- 30485|?:0 -> 34753|?:1
 
 # Charlotte -> ~: Tsuyoi Monotachi
 - 28999|10103:14 -> 31553|11365:1
