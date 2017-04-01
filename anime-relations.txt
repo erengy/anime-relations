@@ -91,6 +91,9 @@
 # Black Lagoon -> ~: The Second Barrage
 - 889|789:13-24 -> 1519|1363:1-12!
 
+# Boku no Hero Academia -> ~ 2nd Season
+- 31964|11469:14-38 -> 33486|12268:1-25
+
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316:0 -> 10897|6397:1
 
