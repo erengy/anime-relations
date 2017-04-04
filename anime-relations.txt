@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-01-22
+- last_modified: 2017-04-01
 
 ::rules
 
@@ -563,6 +563,9 @@
 - 4581|7666:26 -> 6344|3695:1
 # Shikabane Hime: Kuro -> ~ Special
 - 5034|7667:13 -> 6344|3695:1
+
+# Shingeki no Kyojin -> ~ Season 2
+- 16498|7442:26-37 -> 25777|8671:1-12!
 
 # Shugo Chara! -> ~! Doki
 - 2923|2648:52-102 -> 5262|4019:1-51!
