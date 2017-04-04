@@ -124,7 +124,7 @@
 - 9539|5781:164-196 -> 21729|8264:1-33!
 
 # ChäoS;Child -> ~ Episode 0
-- 30485|?:0 -> 34753|?:1
+- 30485|10786:0 -> 34753|13282:1
 
 # Charlotte -> ~: Tsuyoi Monotachi
 - 28999|10103:14 -> 31553|11365:1
@@ -237,7 +237,7 @@
 # Gintama -> ~°
 - 918|818:266-316 -> 28977|10083:1-51!
 # Gintama -> ~.
-- 918|818:317-? -> 34096|12553:1-?!
+- 918|818:317-328 -> 34096|12553:1-12!
 
 # Glass no Hana to Kowasu Sekai -> ~
 - 25907|8971:0 -> ~|~:1
@@ -373,6 +373,8 @@
 
 # Kyoukai no Rinne (TV) -> ~ 2nd Season
 - 28423|10018:26-50 -> 31610|11366:1-25!
+# Kyoukai no Rinne (TV) -> ~ 3rd Season
+- 28423|10018:51-? -> 34106|12561:1-?!
 
 # Kyoukaisenjou no Horizon -> ~ II
 - 10456|6187:14-26 -> 12487|6746:1-13!
@@ -423,6 +425,9 @@
 
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206:26-50 -> 33051|12005:1-25!
+
+# Mobile Suit Gundam Thunderbolt -> ~ 2nd Season
+- 31973|11476:5-8 -> 34391|12755:1-4
 
 # Monster Farm: Enbanseki no Himitsu -> Monster Farm: Legend e no Michi
 - 1469|1315:49-73 -> 13201|6909:1-25
@@ -505,7 +510,7 @@
 - 18099|7695:13 -> 24935|8569:1
 
 # Rewrite -> ~ 2nd Season
-- 31716|11410:14-? -> 34126|12861:1-?
+- 31716|11410:14-24 -> 34126|12861:1-11
 
 # Rinne no Lagrange -> ~ Season 2
 - 11227|6477:13-24 -> 12281|6699:1-12
@@ -587,7 +592,7 @@
 # Tales of Zestiria the X -> ~: Saiyaku no Jidai
 - 30911|11023:0 -> 33558|12283:1
 # Tales of Zestiria the X -> ~ 2nd Season
-- 30911|11023:13-24 -> 34086|12294:1-12
+- 30911|11023:13-25 -> 34086|12294:1-13
 
 # Tamayura: Sotsugyou Shashin Part 1 -> ~ 2,3,4
 - 25729|8808:2 -> 29829|10439:1
