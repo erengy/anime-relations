@@ -444,6 +444,9 @@
 # Monster Strike 2 -> ~: Katsubou no Hate no Risoukyou
 - 34670|?:0 -> 35265|?:1
 
+# Morita-san wa Mukuchi. -> ~ 2
+- 10671|6285:14-26 -> 11615|6549:1-13
+
 # Musaigen no Phantom World -> ~ Special
 - 31442|11333:14 -> 33075|11686:1
 
@@ -722,6 +725,9 @@
 - 30790|10940:0 -> ~|~:1
 # Yowamushi Pedal Movie -> ~
 - 30413|10769:0 -> ~|~:1
+
+# Yurumates 3D: Ushinawareta Genjitsu -> Yurumates 3D Plus: Natsuyasumi Maison du Wish Report
+- 14949|7187:2 -> 31551|11371:1
 
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. -> ~ OVA
 - 18677|7725:13 -> 20545|8029:1
