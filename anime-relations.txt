@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-04-01
+- last_modified: 2017-04-05
 
 ::rules
 
@@ -68,6 +68,9 @@
 # Ao Haru Ride -> ~ OVA
 - 21995|8246:0 -> 24151|8488:1
 - 21995|8246:13 -> 24151|8488:2
+
+# Ao Oni The Animation (Movie) -> ~
+- 33820|12478:0 -> ~|~:1
 
 # Baccano! -> ~ Specials
 - 2251|2039:14-16 -> 3901|3334:1-3
@@ -135,6 +138,9 @@
 # Chobits -> ~ Recap
 - 59|40:27 -> 1311|1176:1
 
+# Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe -> ~ Special
+- 23551|8498:13 -> 25439|8786:1
+
 # Choujigen Game Neptune: The Animation -> ~ OVA
 - 16157|7379:13 -> 20479|8071:1
 
@@ -183,6 +189,9 @@
 - 6033|4394:98 -> 11359|6500:1
 # Dragon Ball Kai -> ~ (2014)
 - 6033|4394:99-159 -> 22777|8351:1-61!
+
+# Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka -> ~ OVA
+- 28121|9962:14 -> 32801|11851:1
 
 # Durarara!! -> ~ Specials
 - 6746|4696:25 -> 8408|5324:2
@@ -432,6 +441,9 @@
 # Monster Farm: Enbanseki no Himitsu -> Monster Farm: Legend e no Michi
 - 1469|1315:49-73 -> 13201|6909:1-25
 
+# Monster Strike 2 -> ~: Katsubou no Hate no Risoukyou
+- 34670|?:0 -> 35265|?:1
+
 # Musaigen no Phantom World -> ~ Special
 - 31442|11333:14 -> 33075|11686:1
 
@@ -553,6 +565,9 @@
 # Sekirei: Pure Engagement -> ~ Special
 - 5277|4029:0 -> 9355|5700:1
 
+# Sengoku Choujuu Giga: Kou -> Sengoku Choujuu Giga: Otsu
+- 33803|12492:14-26 -> 34738|13186:1-13!
+
 # Senyuu. -> ~ 2
 - 15751|7303:14-26 -> 18523|7719:1-13!
 
@@ -583,6 +598,9 @@
 
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322:13 -> 34538|13004:1
+
+# Spider Riders: Oracle no Yuusha-tachi -> Spider Riders: Yomigaeru Taiyou
+- 2619|2383:27-52 -> 2620|2384:1-26
 
 # Suisei no Gargantia -> ~ Specials
 - 16524|7449:14-15 -> 19211|7872:1-2
@@ -651,6 +669,8 @@
 
 # Trinity Seven -> ~ OVA
 - 25157|8607:13 -> 28285|10014:1
+# Trinity Seven Movie: Eternity Library to Alchemic Girl -> ~
+- 33581|12324:0 -> ~|~:1
 
 # Tsubasa Chronicle -> ~ 2nd Season
 - 177|154:27-52 -> 969|859:1-26
