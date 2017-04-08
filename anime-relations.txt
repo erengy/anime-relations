@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-04-07
+- last_modified: 2017-04-08
 
 ::rules
 
@@ -447,7 +447,7 @@
 - 1469|1315:49-73 -> 13201|6909:1-25
 
 # Monster Strike 2 -> ~: Katsubou no Hate no Risoukyou
-- 34670|?:0 -> 35265|?:1
+- 34670|13316:0 -> 35265|13343:1
 
 # Morita-san wa Mukuchi. -> ~ 2
 - 10671|6285:14-26 -> 11615|6549:1-13
@@ -476,6 +476,8 @@
 
 # Nobunaga no Shinobi -> ~ Episode 0
 - 32829|11871:0 -> 34283|12672:1
+# Nobunaga no Shinobi -> ~: Ise Kanegasaki-hen
+- 32829|11871:27-? -> 34978|13303:1-?
 
 # Nodame Cantabile Finale -> ~ Special
 - 5690|4248:0 -> 8038|5177:1
@@ -702,6 +704,9 @@
 
 # Ushio to Tora (TV) -> ~ 2nd Season
 - 29854|10359:27-39 -> 31098|11126:1-13!
+
+# ViVid Strike! -> ~ Specials
+- 33589|12304:13 -> 34812|13344:3
 
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! -> ~ OVA
 - 16742|7504:13 -> 20449|7991:1
