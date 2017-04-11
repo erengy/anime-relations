@@ -1,0 +1,18 @@
+branches:
+  only:
+  - master
+
+skip_tags: true
+build: off
+
+artifacts:
+- path: anime-relations.txt
+
+deploy:
+- provider: GitHub
+  tag: Latest
+  release: Latest
+  auth_token:
+    secure: pVq1DaS5K76UHaWGz9SLdrcAqLgTwWBlOuBH90/wKPE48mQmpYRV5OLZ0Tq2up1A
+  artifact: anime-relations.txt
+  force_update: true
