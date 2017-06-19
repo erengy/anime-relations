@@ -78,6 +78,9 @@
 # Berserk (2016) -> Berserk (2017)
 - 32379|11655:13-? -> 34055|12569:1-?!
 
+# Berserk S2 -> Berserk (2017)
+- ~|~:13-? -> 34055|12569:1-?!
+
 # Bikini Warriors -> ~ Special
 - 30782|10920:13 -> 31283|11216:1
 # Bikini Warriors -> ~ OVA
