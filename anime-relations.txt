@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-04-08
+- last_modified: 2017-07-04
 
 ::rules
 
@@ -178,6 +178,9 @@
 - 15583|7278:13 -> 17641|7839:1
 # Date A Live II -> Date A Live: Encore OVA
 - 19163|7864:11 -> 22961|8511:1
+
+# Demi-chan wa Kataritai -> ~ Demi-chan no Natsuyasumi
+- 33988|12529:13 -> 35823|13591:1!
 
 # Denpa Onna to Seishun Otoko -> ~ Special
 - 9379|5710:13 -> 10638|6276:1
