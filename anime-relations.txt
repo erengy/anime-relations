@@ -617,6 +617,11 @@
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322:13 -> 34538|13004:1
 
+# Space☆Dandy -> ~ 2nd Season
+- 20057|7910:14-26 -> 23327|8312:1-13
+# Space☆Dandy Picture Drama -> Space☆Dandy 2nd Season Picture Drama
+- 25635|8741:3-5 -> 30246|10787:1-3
+
 # Spider Riders: Oracle no Yuusha-tachi -> Spider Riders: Yomigaeru Taiyou
 - 2619|2383:27-52 -> 2620|2384:1-26
 
