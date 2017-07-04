@@ -76,7 +76,7 @@
 - 2251|2039:14-16 -> 3901|3334:1-3
 
 # Berserk (2016) -> Berserk (2017)
-- 32379|11655:13-? -> 34055|12569:1-?!
+- 32379|11655:13-24 -> 34055|12569:1-12!
 
 # Bikini Warriors -> ~ Special
 - 30782|10920:13 -> 31283|11216:1
@@ -179,8 +179,8 @@
 # Date A Live II -> Date A Live: Encore OVA
 - 19163|7864:11 -> 22961|8511:1
 
-# Demi-chan wa Kataritai -> ~ Demi-chan no Natsuyasumi
-- 33988|12529:13 -> 35823|13591:1!
+# Demi-chan wa Kataritai -> ~: Demi-chan no Natsuyasumi
+- 33988|12529:13 -> 35823|13591:1
 
 # Denpa Onna to Seishun Otoko -> ~ Special
 - 9379|5710:13 -> 10638|6276:1
