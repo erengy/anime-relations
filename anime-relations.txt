@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-07-04
+- last_modified: 2017-07-30
 
 ::rules
 
@@ -657,6 +657,8 @@
 - 15125|7217:73-84 -> 32228|11597:1-12!
 # Teekyuu -> ~ 8
 - 15125|7217:85-96 -> 33811|12473:1-12!
+# Teekyuu -> ~ 9
+- 15125|7217:97-108 -> 35370|13342:1-12!
 
 # Teekyuu 2 Specials -> ~ 3,4,5,6
 - 21201|8078:3-4 -> 22335|8289:1-2
