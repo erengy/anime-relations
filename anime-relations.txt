@@ -38,6 +38,9 @@
 # 11eyes -> ~: Momoiro Genmutan
 - 6682|4662:13 -> 7739|5102:1
 
+# 3-gatsu no Lion -> 2nd Season
+- 31646|11380:23-44 -> 35180|13401:1-22
+
 # Acchi Kocchi (TV) -> ~: Place=Princess
 - 12291|6701:13 -> 16273|7401:1
 
