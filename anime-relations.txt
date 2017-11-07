@@ -31,7 +31,7 @@
 - version: 1.2.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2017-10-16
+- last_modified: 2017-11-07
 
 ::rules
 
@@ -261,7 +261,7 @@
 - 918|818:266-316 -> 28977|10083:1-51!
 # Gintama -> ~.
 - 918|818:317-328 -> 34096|12553:1-12!
-# Gintama -> ~. Porori-hen
+# Gintama -> ~.: Porori-hen
 - 918|818:329-? -> 35843|13726:1-?!
 
 # Glass no Hana to Kowasu Sekai -> ~
@@ -573,6 +573,9 @@
 - 11499|6521:13 -> 16694|7492:1
 # Sankarea -> ~ OVA
 - 11499|6521:14 -> 13055|6873:2
+
+# Sasami: Mahou Shoujo Club -> ~ 2
+- 1881|7760:14-26 -> 1882|1693:1-13
 
 # Seikaisuru Kado -> ~ Episode 0
 - 32032|11490:0 -> 35369|13323:1
