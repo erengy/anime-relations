@@ -109,6 +109,8 @@
 - 31964|11469|21459:14-38 -> 33486|12268|21856:1-25
 # Boku no Hero Academia 2nd Season -> ~: Hero Note
 - 33486|12268|21856:0 -> 35262|13313|99308:1
+# Boku no Hero Academia -> ~ 3rd Season
+- 31964|11469|21459:39-63 -> 36456|13881|100166:1-25
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
@@ -634,7 +636,7 @@
 # Shingeki no Kyojin -> ~ Season 2
 - 16498|7442|16498:26-37 -> 25777|8671|20958:1-12!
 
-# Shokugeki no Soma S3 -> Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen
+# Shokugeki no Souma: San no Sara -> ~ - Toutsuki Ressha-hen
 - 35788|13581|99255:13-? -> 36949|14092|100773:1-?!
 
 # Shugo Chara! -> ~! Doki
