@@ -276,7 +276,9 @@
 # Gintama -> ~.: Porori-hen
 - 918|818|918:329-341 -> 35843|13726|99714:1-13!
 # Gintama -> ~.: Shirogane no Tamashii-hen
-- 918|818|918:342-? -> 36838|14095|100784:1-?!
+- 918|818|918:342-353 -> 36838|14095|100784:1-12!
+# Gintama -> ~.: Shirogane no Tamashii-hen 2
+- 918|818|?:354-? -> 37491|41079|?:1-?!
 
 # Glass no Hana to Kowasu Sekai -> ~
 - 25907|8971|21042:0 -> ~|~|~:1
@@ -509,6 +511,8 @@
 - 32829|11871|21666:0 -> 34283|12672|97969:1
 # Nobunaga no Shinobi -> ~: Ise Kanegasaki-hen
 - 32829|11871|21666:27-52 -> 34978|13303|98420:1-26
+# Nobunaga no Shinobi -> ~: Anegawa Ishiyama-hen
+- 32829|11871|21666:53-? -> 37126|14207|100966:1-?
 
 # Nodame Cantabile Finale -> ~ Special
 - 5690|4248|5690:0 -> 8038|5177|8038:1
