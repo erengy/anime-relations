@@ -33,7 +33,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-04-13
+- last_modified: 2018-04-14
 
 ::rules
 
@@ -317,7 +317,7 @@
 # High School DxD BorN -> ~: Yomigaeranai Fushichou
 - 24703|8514|20745:13 -> 32215|11598|21573:1
 # High School DxD Hero -> ~: Taiikukan-ura no Holy
-- 34281|12677|97767:0 -> 37719|41208|?:1 
+- 34281|12677|97767:0 -> 37719|41208|97767:1 
 
 # Hipira-kun -> ~ ONA
 - 7723|5097|?:11-12 -> 22983|8585|?:1
