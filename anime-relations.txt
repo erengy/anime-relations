@@ -15,12 +15,14 @@
 #   (3) AniList ID
 #       <https://anilist.co/anime/{id}/{title}>
 #   (4) Episode number or range
-#       "?" is used for unknown episode count.
-#       "!" suffix is shorthand for creating a new rule where destination ID is
-#       redirected to itself.
+#
+#   - "?" is used for unknown values.
+#   - "~" is used to repeat the source ID.
+#   - "!" suffix is shorthand for creating a new rule where destination ID is
+#     redirected to itself.
 #
 # If you are editing this file in the installation directory of Taiga, be aware
-# that it may be overwritten next time you update the application.
+# that it may be overwritten the next time you update the application.
 #
 # The latest version of this file can be found at:
 #   <https://github.com/erengy/anime-relations>

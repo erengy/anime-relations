@@ -12,12 +12,14 @@ This repository includes anime relation data for [Taiga](https://github.com/eren
 2. Kitsu ID - `https://kitsu.io/api/edge/anime?filter[text]={title}`
 3. AniList ID - `https://anilist.co/anime/{id}/{title}`
 4. Episode number or range
-    - `?` is used for unknown episode count.
-    - `!` suffix is shorthand for creating a new rule where destination ID is redirected to itself.
+
+- `?` is used for unknown values.
+- `~` is used to repeat the source ID.
+- `!` suffix is shorthand for creating a new rule where destination ID is redirected to itself.
 
 ## Example
 
-The first season of *Fate/Zero* has 13 episodes, yet it is possible to encounter filenames that go beyond this number: 
+The first season of *Fate/Zero* has 13 episodes, yet it is possible to encounter filenames that go beyond this number:
 
     [Coalgirls]_Fate_Zero_14_(1280x720_Blu-ray_FLAC)_[E56A8415].mkv
 
@@ -74,7 +76,7 @@ By appending an `!` to the rule, we also handled the cases such as `Fate Zero S2
 2. Create a new rule and place it in alphabetical order, using the main title from MyAnimeList.
 3. Update the `last_modified` date in `YYYY-MM-DD` format.
 4. Make sure the rule is working, by testing it before sending a pull request.
-5. In the pull request, indicate which fansub groups' releases require the new rule.
+5. In the pull request description, indicate which fansub groups' releases require the new rule.
 
 ## License
 
