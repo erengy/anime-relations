@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-04-14
+- last_modified: 2018-04-19
 
 ::rules
 
@@ -323,6 +323,9 @@
 
 # Hipira-kun -> ~ ONA
 - 7723|5097|?:11-12 -> 22983|8585|?:1
+
+# Hokuto no Ken -> ~ 2
+- 967|857|967:110-152 -> 1356|1210|1356:1-43!
 
 # Hoozuki no Reitetsu 2nd Season -> ~ Sono Ni
 - 35075|13226|98438:14-26 -> 37029|14157|100852:1-13
