@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-06-02
+- last_modified: 2018-06-05
 
 ::rules
 
@@ -584,6 +584,9 @@
 - 11491|6519|11491:14-26 -> 13377|6951|13377:1-13!
 # Recorder to Randoseru Mi☆ -> ~ Special
 - 18099|7695|18099:13 -> 24935|8569|20828:1
+
+# ReLIFE -> ~: Kanketsu-hen
+- 30015|10464|21049:14-17 -> 35466|13502|98635:1-4
 
 # Rewrite -> ~ 2nd Season
 - 31716|11410|21382:14-24 -> 34126|12861|97665:1-11
