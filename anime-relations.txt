@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-04-19
+- last_modified: 2018-06-02
 
 ::rules
 
@@ -47,6 +47,15 @@
 
 # Acchi Kocchi (TV) -> ~: Place=Princess
 - 12291|6701|12291:13 -> 16273|7401|16273:1
+
+# Aikatsu! -> ~ 2
+- ?|7205|15061:51-101 -> ?|7972|20181:1-50
+# Aikatsu! -> ~ 3
+- ?|7205|15061:102-152 -> ?|9096|20794:1-50
+# Aikatsu! -> ~ 4
+- ?|7205|15061:153-178 -> ?|11142|21307:1-26
+# Aikatsu Stars! -> ~ Hoshi no Tsubasa
+- ?|?|21648:51-100 -> ?|?|98542:1-50
 
 # Ajin -> ~ 2nd Season
 - 31580|11368|21341:14-26 -> 33253|12115|21799:1-13!
