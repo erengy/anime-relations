@@ -577,9 +577,9 @@
 # Phi Brain: Kami no Puzzle -> ~ - Orpheus Order-hen
 - 9981|5978|9981:26-50 -> 12753|6803|12753:1-25!
 
-#Pripara -> ~2
+# PriPara -> ~ 2nd Season
 - ?|8555|20742:39-89 -> ?|10209|20985:1-51
-#Pripara -> ~3
+# PriPara -> ~ 3nd Season
 - ?|8555|20742:90-140 -> ?|12683|21559:1-51
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
