@@ -579,7 +579,7 @@
 
 # PriPara -> ~ 2nd Season
 - ?|8555|20742:39-89 -> ?|10209|20985:1-51
-# PriPara -> ~ 3nd Season
+# PriPara -> ~ 3rd Season
 - ?|8555|20742:90-140 -> ?|12683|21559:1-51
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
