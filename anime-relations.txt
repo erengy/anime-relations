@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-06-05
+- last_modified: 2018-07-04
 
 ::rules
 
@@ -576,6 +576,11 @@
 
 # Phi Brain: Kami no Puzzle -> ~ - Orpheus Order-hen
 - 9981|5978|9981:26-50 -> 12753|6803|12753:1-25!
+
+#Pripara -> ~2
+- ?|8555|20742:39-89 -> ?|10209|20985:1-51
+#Pripara -> ~3
+- ?|8555|20742:90-140 -> ?|12683|21559:1-51
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
