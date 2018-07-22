@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-07-08
+- last_modified: 2018-07-22
 
 ::rules
 
@@ -666,6 +666,8 @@
 
 # Shingeki no Kyojin -> ~ Season 2
 - 16498|7442|16498:26-37 -> 25777|8671|20958:1-12!
+# Shingeki no Kyojin -> ~ Season 3
+- 16498|7442|16498:38-? -> 35760|13569|99147:1-?!
 
 # Shokugeki no Souma: San no Sara -> ~ - Toutsuki Ressha-hen
 - 35788|13581|99255:13-? -> 36949|14092|100773:1-?!
