@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-07-22
+- last_modified: 2018-07-25
 
 ::rules
 
@@ -174,6 +174,15 @@
 - 14741|7160|14741:13 -> 16934|7556|16934:1
 # Chuunibyou demo Koi ga Shitai! Ren -> ~: The Rikka Wars
 - 18671|7705|18671:13 -> 27601|9132|20889:1
+
+# Cinderella Girls Gekijou -> ~ 2nd Season
+- 34257|12671|97765:14-26 -> 35883|13895|99742:1-13
+# Cinderella Girls Gekijou -> ~ 3rd Season
+- 34257|12671|97765:27-? -> 37422|41377|101267:1-?
+# Cinderella Girls Gekijou: Kayou Cinderella Theater -> ~ 2nd Season
+- 35346|13327|98556:14-26 -> 36500|13896|100225:1-13
+# Cinderella Girls Gekijou: Kayou Cinderella Theater -> ~ 3rd Season
+- 35346|13327|98556:27-? -> 37424|41462|?:1-?
 
 # Clannad -> ~: Mou Hitotsu no Sekai, Tomoyo-hen
 - 2167|1962|2167:24 -> 4059|3438|4059:1
@@ -548,6 +557,10 @@
 - 4155|3492|4155:0 -> 8740|5469|8740:1
 # One Piece: Heart of Gold -> ~
 - 33338|12228|21831:0 -> ~|~|~:1
+
+# One Room 2 -> ~ Episode 0
+- 36431|13905|?:0 -> 38061|41452|?:1!
+- ?|?|100133:0-? -> ?|?|100133:1-?!
 
 # Onee-chan ga Kita -> ~ Special
 - 20931|8083|20473:13 -> 23427|8343|20682:1
