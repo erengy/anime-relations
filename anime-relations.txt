@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-08-24
+- last_modified: 2018-10-02
 
 ::rules
 
@@ -695,6 +695,9 @@
 
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322|21873:13 -> 34538|13004|98843:1
+
+# Souten no Ken: REGENESIS -> ~ 2
+- 36655|13983|100408:13-24 -> 37388|41953|102860:1-12
 
 # Space☆Dandy -> ~ 2nd Season
 - 20057|7910|20057:14-26 -> 23327|8312|20666:1-13
