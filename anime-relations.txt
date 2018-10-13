@@ -113,8 +113,7 @@
 # Bishoujo Senshi Sailor Moon -> ~ SuperS
 - 530|489|530:128-166 -> 1239|1115|1239:1-39!
 # Bishoujo Senshi Sailor Moon -> ~: Sailor Stars
-- 530|489|530:167-200 -> 996|886|996:1-34!
-# Bishoujo Senshi Sailor Moon Crystal -> ~ Season III
+- 530|489|530:167-200 -> 996|886|996:1-34!ilor Moon Crystal -> ~ Season III
 - 14751|7163|14751:27-39 -> 31733|11415|21462:1-13!
 
 # Black Lagoon -> ~: The Second Barrage
@@ -605,7 +604,7 @@
 - 9981|5978|9981:26-50 -> 12753|6803|12753:1-25!
 
 # Pingu in the City -> ~ 2
-- 36259|13783|99994:27-52 -> 38262|13783|99995:1-26
+- 36259|13783|99994:27-52 -> 38262|?|99995:1-26
 
 # PriPara -> ~ 2nd Season
 - ?|8555|20742:39-89 -> ?|10209|20985:1-51
