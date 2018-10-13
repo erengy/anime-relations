@@ -113,7 +113,8 @@
 # Bishoujo Senshi Sailor Moon -> ~ SuperS
 - 530|489|530:128-166 -> 1239|1115|1239:1-39!
 # Bishoujo Senshi Sailor Moon -> ~: Sailor Stars
-- 530|489|530:167-200 -> 996|886|996:1-34!ilor Moon Crystal -> ~ Season III
+- 530|489|530:167-200 -> 996|886|996:1-34!
+# Bishoujo Senshi Sailor Moon Crystal -> ~ Season III
 - 14751|7163|14751:27-39 -> 31733|11415|21462:1-13!
 
 # Black Lagoon -> ~: The Second Barrage
