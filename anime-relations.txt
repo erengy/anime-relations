@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2018-12-27
+- last_modified: 2019-01-10
 
 ::rules
 
@@ -590,6 +590,9 @@
 # Ore no Imouto ga Konnani Kawaii Wake ga Nai. -> ~ Specials
 - 13659|7006|13659:14-16 -> 18857|7822|18857:1-3
 
+# Osake wa Fuufu ni Natte kara -> ~ Episode 14
+- 35484|13719|98657:14 -> 37826|41271|104530:1
+
 # Owari no Seraph -> ~: Nagoya Kessen-hen
 - 26243|8736|20829:13-24 -> 28927|10082|20993:1-12!
 
@@ -730,6 +733,9 @@
 
 # Spider Riders: Oracle no Yuusha-tachi -> Spider Riders: Yomigaeru Taiyou
 - 2619|2383|2619:27-52 -> 2620|2384|2620:1-26
+
+# Steins;Gate 0 -> ~ Special
+- 30484|10788|21127:24 -> 37492|41443|104174:1
 
 # Suisei no Gargantia -> ~ Specials
 - 16524|7449|16524:14-15 -> 19211|7872|19211:1-2
