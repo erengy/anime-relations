@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2019-01-14
+- last_modified: 2019-02-02
 
 ::rules
 
@@ -614,6 +614,9 @@
 
 # Phi Brain: Kami no Puzzle -> ~ - Orpheus Order-hen
 - 9981|5978|9981:26-50 -> 12753|6803|12753:1-25!
+
+# Piano no Mori (TV) -> ~ 2nd Season
+- 36652|13984|100401:13-24 -> 37975|41461|103049:1-12!
 
 # Pingu in the City -> ~ 2nd Season
 - 36259|13783|99994:27-52 -> 38262|41981|99995:1-26!
