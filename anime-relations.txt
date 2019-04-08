@@ -59,6 +59,8 @@
 - ?|7205|15061:153-178 -> ?|11142|21307:1-26
 # Aikatsu Stars! -> ~ Hoshi no Tsubasa
 - ?|?|21648:51-100 -> ?|?|98542:1-50
+# Aikatsu Friends! -> ~ Kagayaki no Jewel
+- 39078|41015|101043:51-? -> 37204|42169|107447:1-?
 
 # Ajin -> ~ 2nd Season
 - 31580|11368|21341:14-26 -> 33253|12115|21799:1-13!
@@ -438,6 +440,9 @@
 
 # Kino no Tabi: The Beautiful World -> ~ - Tou no Kuni
 - 486|447|486:0 -> 3466|3031|3466:1
+
+# Kiratto Pri-Chan -> ~ 2nd Season
+- 37178|41141|101097:52-? -> 38804|42114|108625:1-?
 
 # Kobayashi-san Chi no Maid Dragon -> ~: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
 - 33206|12243|21776:14 -> 35363|13861|98580:1
