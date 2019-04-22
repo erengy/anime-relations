@@ -188,10 +188,14 @@
 - 34257|12671|97765:14-26 -> 35883|13895|99742:1-13
 # Cinderella Girls Gekijou -> ~ 3rd Season
 - 34257|12671|97765:27-39 -> 37422|41377|101267:1-13
+# Cinderella Girls Gekijou -> ~: Climax Season
+- 34257|12671|97765:40-? -> 38767|42229|105962:1-?
 # Cinderella Girls Gekijou: Kayou Cinderella Theater -> ~ 2nd Season
 - 35346|13327|98556:14-26 -> 36500|13896|100225:1-13
 # Cinderella Girls Gekijou: Kayou Cinderella Theater -> ~ 3rd Season
 - 35346|13327|98556:27-33 -> 37424|41462|103311:1-7
+# Cinderella Girls Gekijou: Kayou Cinderella Theater -> ~ 4th Season
+- 35346|?|98556:34-? -> 39654|?|108810:1-?
 
 # Clannad -> ~: Mou Hitotsu no Sekai, Tomoyo-hen
 - 2167|1962|2167:24 -> 4059|3438|4059:1
