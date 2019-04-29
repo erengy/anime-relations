@@ -267,8 +267,8 @@
 - 6702|4676|6702:176-277 -> 22043|8203|20626:1-102!
 # Fairy Tail -> ~ (2018)
 - 6702|4676|6702:278-? -> 35972|13658|99749:1-?!
-# Fairy Tail Final Season  -> ~
-- 35972|13658|99749:278-? -> ~|~|~:1-?!
+# Fairy Tail Final Season  -> Fairy Tail: Final Series
+- 35972|13658|99749:278-? -> ~|~|~:1-?
 
 # Fate/stay night: Unlimited Blade Works (TV) -> ~ Episode 0
 - 22297|7882|?:0 -> 27821|9718|?:1
