@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2019-04-28
+- last_modified: 2019-07-10
 
 ::rules
 
@@ -262,6 +262,9 @@
 - 23199|8314|20652:13-24 -> 27831|9726|20879:1-12!
 # Durarara!!x2 Shou -> Durarara!!x2 Ketsu
 - 23199|8314|20652:25-36 -> 27833|9725|20880:1-12!
+
+# Fairy Gone -> ~ 2nd Season
+- 39063|42130|107418:13-24 -> 39811|42358|109562:1-12
 
 # Fairy Tail -> ~ (2014)
 - 6702|4676|6702:176-277 -> 22043|8203|20626:1-102!
