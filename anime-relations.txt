@@ -132,7 +132,7 @@
 # Boku no Hero Academia -> ~ 3rd Season
 - 31964|11469|21459:39-63 -> 36456|13881|100166:1-25!
 # Boku no Hero Academia -> ~ 4th Season
-- 31964|11469|21459:64-89 -> 38408|41971|104276:1-25!
+- 31964|11469|21459:64-88 -> 38408|41971|104276:1-25!
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
@@ -264,6 +264,9 @@
 - 23199|8314|20652:13-24 -> 27831|9726|20879:1-12!
 # Durarara!!x2 Shou -> Durarara!!x2 Ketsu
 - 23199|8314|20652:25-36 -> 27833|9725|20880:1-12!
+
+# Fairy Gone -> ~ 2nd Season
+- 39063|42130|107418:13-24 -> 39811|42358|109562:1-12!
 
 # Fairy Tail -> ~ (2014)
 - 6702|4676|6702:176-277 -> 22043|8203|20626:1-102!
@@ -463,6 +466,9 @@
 # Kono Naka ni Hitori, Imouto ga Iru! -> ~: Ani, Imouto, Koibito
 - 13367|6947|13367:13 -> 15609|7282|15609:1
 
+# Kono Oto Tomare! -> ~ 2nd Season
+- 38080|42101|103302:14-? -> 38889|42306|108891:1-?!
+
 # Kono Subarashii Sekai ni Shukufuku wo! -> ~ OVA
 - 30831|10941|21202:11 -> 32380|11752|21574:1
 
@@ -496,6 +502,9 @@
 
 # Log Horizon -> ~ 2
 - 17265|7622|17265:26-50 -> 23321|8313|20671:1-25!
+
+# Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note -> ~ - Hakamori to Neko to Majutsu-shi
+- 38959|42092|106918:0 -> 38936|42076|106862:1
 
 # Love Hina -> ~: Motoko's Choice, Love or the Sword - Don't Cry
 - 189|166|189:25 -> 963|853|963:1
