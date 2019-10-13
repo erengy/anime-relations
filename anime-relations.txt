@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2019-04-28
+- last_modified: 2019-07-08
 
 ::rules
 
@@ -494,6 +494,9 @@
 
 # Log Horizon -> ~ 2
 - 17265|7622|17265:26-50 -> 23321|8313|20671:1-25!
+
+# Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note -> ~ - Hakamori to Neko to Majutsu-shi
+- 38959|42092|106918:0 -> 38936|42076|106862:1
 
 # Love Hina -> ~: Motoko's Choice, Love or the Sword - Don't Cry
 - 189|166|189:25 -> 963|853|963:1
