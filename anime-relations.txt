@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2019-10-12
+- last_modified: 2019-10-30
 
 ::rules
 
@@ -153,6 +153,9 @@
 - 31478|11339|21311:25 -> 33071|12051|21791:1
 # Bungou Stray Dogs -> ~ 3rd Season
 - 31478|11339|21311:26-37 -> 38003|41984|103223:1-12!
+
+# Busou Shoujo Machiavellianism -> ~: Doki! "Goken-darake" no Ian Ryokou
+- 33475|12265|21851:13 -> 35314|14261|98856:1
 
 # C³ -> ~ Special
 - 10578|6249|10578:13 -> 12505|6751|12505:1
