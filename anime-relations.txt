@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2019-12-03
+- last_modified: 2020-04-05
 
 ::rules
 
@@ -385,6 +385,9 @@
 
 # Hoozuki no Reitetsu 2nd Season -> ~ Sono Ni
 - 35075|13226|98438:14-26 -> 37029|14157|100852:1-13
+
+# Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 2nd Season
+- 39468|42241|108268:15-26 -> 40815|42838|113693:1-12!
 
 # Hourou Musuko -> ~
 - 8426|5331|8426:12 -> ~|~|~:11
