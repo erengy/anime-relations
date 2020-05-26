@@ -237,7 +237,7 @@
 # Denpa Onna to Seishun Otoko -> ~ Special
 - 9379|5710|9379:13 -> 10638|6276|10638:1
 
-# Diamond no Ace OVA -> ~ Second Season OVA 
+# Diamond no Ace OVA -> ~ Second Season OVA
 - 25341|8792|20861:4-5 -> 34349|12725|98582:1-2
 
 # Dies Irae -> ~: Reimei
