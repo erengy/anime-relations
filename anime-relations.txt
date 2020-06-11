@@ -304,7 +304,7 @@
 # Gantz -> ~ 2nd Stage
 - 384|351|384:14-26 -> 395|362|395:1-13!
 
-# Garo: Honoo no Kokuin -> ~Home
+# Garo: Honoo no Kokuin -> ~ - Home
 - 23311|8409|20753:25 -> 32415|11837|102098:1
 # Garo: Guren no Tsuki -> ~ Special
 - 28537|10045|21277:24 -> 33709|12631|102429:1
