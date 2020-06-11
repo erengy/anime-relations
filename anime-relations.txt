@@ -279,8 +279,8 @@
 # Fairy Tail -> ~ (2018)
 - 6702|4676|6702:278-328 -> 35972|13658|99749:1-51!
 
-# Fate/Grand Order: Zettai Majuu Sensen Babylonia -> ~ Episode 0
-- 38084|42269|103275:0 -> 40206|42475|110851:1
+# Fate/Grand Order: Zettai Majuu Sensen Babylonia -> ~ - Initium Iter
+- 38084|42269|103275:0 -> 40206|42475|110851:1!
 
 # Fate/stay night: Unlimited Blade Works (TV) -> ~ Episode 0
 - 22297|7882|?:0 -> 27821|9718|?:1
