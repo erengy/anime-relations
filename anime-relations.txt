@@ -671,6 +671,8 @@
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
+# Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season
+- 31240|11209|21355:26-38 -> 39587|42198|108632:1-13
 
 # Recorder to Randoseru Do♪ -> Recorder to Randoseru Re♪
 - 11491|6519|11491:14-26 -> 13377|6951|13377:1-13!
