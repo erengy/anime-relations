@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2020-07-08
+- last_modified: 2020-07-09
 
 ::rules
 
@@ -606,6 +606,9 @@
 
 # Nichijou -> ~: Nichijou no 0-wa
 - 10165|6062|10165:0 -> 8857|5512|8857:1
+
+# No Guns Life -> ~ 2nd Season
+- 39539|42197|108478:13-24 -> 40529|42880|112803:1-12!
 
 # Noblesse: Awakening -> ~
 - 32668|11806|21629:0 -> ~|~|~:1
