@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2020-07-09
+- last_modified: 2020-07-12
 
 ::rules
 
@@ -810,6 +810,10 @@
 
 # Suisei no Gargantia -> ~ Specials
 - 16524|7449|16524:14-15 -> 19211|7872|19211:1-2
+
+# Sword Art Online Alicization – War of Underworld -> ~ 2nd Season 
+- 39597|42213|108759:13 -> 40540|42927|114308:1
+
 # Puchitto Gargantia -> ~ Special
 - 18413|7751|18413:14 -> 23099|8592|21863:1
 
