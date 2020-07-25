@@ -865,6 +865,8 @@
 - 10278|6111|10278:765 -> 11889|6627|11889:1
 # The iDOLM@STER Cinderella Girls -> ~ 2nd Season
 - 23587|8777|20693:14-25 -> 30344|10760|21094:1-12!
+# The iDOLM@STER Cinderella Girls -> ~: Anytime, Anywhere with Cinderella.
+- 23587|8777|?:26 -> 32174|11749|?:1
 # The iDOLM@STER SideM -> ~ Prologue SideM: Episode of Jupiter
 - 34915|13755|?:0 -> 36186|13890|?:1
 
