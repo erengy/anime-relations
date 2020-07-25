@@ -905,6 +905,9 @@
 # Uchuu Kyoudai -> ~: Number Zero
 - 12431|6729|12431:0 -> 22583|8358|20559:1
 
+# Umi Monogatari: Anata ga Ite Kureta Koto -> ~ - Shinjiau Kokoro
+- 6129|4439|6129:13 -> 6883|4767|6883:1
+
 # Under the Dog -> ~ Episode 0
 - 27387|9098|21002:0 -> 27387|9098|21002:1
 
