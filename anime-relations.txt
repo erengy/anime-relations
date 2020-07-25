@@ -765,6 +765,9 @@
 # Shelter -> ~
 - 34240|12668|97731:0 -> ~|~|~:1
 
+# Shigofumi -> ~: Sore kara
+- 3420|2996|3420:13 -> 4715|3756|4715:1
+
 # Shikabane Hime: Aka -> Shikabane Hime: Kuro
 - 4581|7666|4581:14-25 -> 5034|7667|5034:1-12
 # Shikabane Hime: Aka -> Shikabane Hime: Kuro Special
