@@ -48,6 +48,9 @@
 # 3D Kanojo: Real Girl -> ~ 2nd Season
 - 36793|14276|100526:13-24 -> 37956|41973|102882:1-12!
 
+# 91 Days -> ~: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita
+- 32998|11957|21711:13 -> 34777|13598|98778:1
+
 # Acchi Kocchi (TV) -> ~: Place=Princess
 - 12291|6701|12291:13 -> 16273|7401|16273:1
 
