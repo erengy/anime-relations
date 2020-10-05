@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2020-07-11
+- last_modified: 2020-10-04
 
 ::rules
 
@@ -368,6 +368,9 @@
 
 # Hakkenden: Touhou Hakken Ibun -> ~ 2nd Season
 - 15613|7284|15613:14-26 -> 18055|7679|18055:1-13!
+
+# Haikyuu!!: To the Top -> ~ 2nd Season
+- 38883|42059|106625:14-25 -> 40776|42938|113538:1-12
 
 # Hataraku Saibou -> ~: Kaze Shoukougun
 - 37141|14212|100977:14 -> 38733|42007|105662:1
