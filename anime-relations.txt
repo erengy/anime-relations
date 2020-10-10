@@ -366,6 +366,9 @@
 # Hagure Yuusha no Aesthetica: Hajirai Ippai -> Queen's Blade Rebellion vs. Hagure Yuusha no Aesthetica
 - 15729|7298|15729:0 -> 14663|7152|14663:1
 
+# Haikyuu!!: To the Top -> ~ 2nd Season
+- 38883|42059|106625:14-25 -> 40776|42938|113538:1-12!
+
 # Haitai Nanafa -> ~ 2nd Season
 - 15043|7201|15043:14-26 -> 17727|7721|17727:1-13!
 
@@ -377,9 +380,6 @@
 
 # Hakkenden: Touhou Hakken Ibun -> ~ 2nd Season
 - 15613|7284|15613:14-26 -> 18055|7679|18055:1-13!
-
-# Haikyuu!!: To the Top -> ~ 2nd Season
-- 38883|42059|106625:14-25 -> 40776|42938|113538:1-12
 
 # Hataraku Saibou -> ~: Kaze Shoukougun
 - 37141|14212|100977:14 -> 38733|42007|105662:1
