@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2020-10-04
+- last_modified: 2020-10-13
 
 ::rules
 
@@ -350,6 +350,9 @@
 
 # Golden Kamuy -> ~ 2
 - 36028|13689|99699:13-24 -> 37989|41442|102977:1-12!
+
+# Golden Kamuy -> ~ 3
+- 36028|13689|99699:25-36 -> 40059|42435|110355:1-12!
 
 # Grappler Baki (TV) -> ~: Saidai Tournament-hen
 - 287|262|287:25-48 -> 551|508|551:1-24!
