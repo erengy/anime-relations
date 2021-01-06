@@ -700,6 +700,8 @@
 
 # Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season
 - 31240|11209|21355:26-? -> 39587|42198|108632:1-?!
+# Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season Part 2
+- 31240|11209|21355:39-? -> 42203|43247|119661:1-?!
 
 # Recorder to Randoseru Do♪ -> Recorder to Randoseru Re♪
 - 11491|6519|11491:14-26 -> 13377|6951|13377:1-13!
