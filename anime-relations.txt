@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-01-06
+- last_modified: 2021-01-07
 
 ::rules
 
@@ -360,7 +360,7 @@
 - 10793|6349|10793:0 -> 13411|6958|13411:1
 
 # Gundam Build Divers Re:Rise -> ~ 2nd Season
-- 40192|42585|110786:14-? -> 40942|43144|114233:1-?!
+- 40192|42585|110786:14-26 -> 40942|43144|114233:1-13!
 
 # Gurazeni -> ~ 2
 - 35183|13981|98479:13-24 -> 37990|41948|102974:1-12!
@@ -597,7 +597,7 @@
 - 10671|6285|10671:14-26 -> 11615|6549|11615:1-13
 
 # Muhyo to Rouji no Mahouritsu Soudan Jimusho -> ~ 2nd Season
-- 37487|41076|101340:13-? -> 39948|43295|110028:1-?!
+- 37487|41076|101340:13-24 -> 39948|43295|110028:1-12!
 
 # Musaigen no Phantom World -> ~ Special
 - 31442|11333|21306:14 -> 33075|11686|21777:1
@@ -702,6 +702,8 @@
 - 31240|11209|21355:26-38 -> 39587|42198|108632:1-13!
 # Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season Part 2
 - 31240|11209|21355:39-? -> 42203|43247|119661:1-?!
+# Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season -> ~ Part 2
+- 39587|42198|108632:14-? -> 42203|43247|119661:1-?!
 
 # Recorder to Randoseru Do♪ -> Recorder to Randoseru Re♪
 - 11491|6519|11491:14-26 -> 13377|6951|13377:1-13!
