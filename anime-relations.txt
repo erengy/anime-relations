@@ -842,6 +842,9 @@
 # Puchitto Gargantia -> ~ Special
 - 18413|7751|18413:14 -> 23099|8592|21863:1
 
+# Suzumiya Haruhi no Yuuutsu -> ~ (2009)
+- 849|751|849:15-28 -> 4382|3579|4382:1-14
+
 # Sword Art Online: Alicization - War of Underworld -> ~ 2nd Season
 - 39597|42213|108759:13-23 -> 40540|42927|114308:1-11!
 
