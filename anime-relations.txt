@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-02-25
+- last_modified: 2021-03-27
 
 ::rules
 
@@ -142,6 +142,8 @@
 - 31964|11469|21459:39-63 -> 36456|13881|100166:1-25!
 # Boku no Hero Academia -> ~ 4th Season
 - 31964|11469|21459:64-88 -> 38408|41971|104276:1-25!
+# Boku no Hero Academia -> ~ 5th Season
+- 41587|43108|117193:89-? -> 41587|43108|117193:1-?!
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
