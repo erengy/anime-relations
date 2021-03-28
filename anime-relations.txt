@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-02-25
+- last_modified: 2021-03-29
 
 ::rules
 
@@ -1013,3 +1013,6 @@
 
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. -> ~ OVA
 - 18677|7725|18677:13 -> 20545|8029|20551:1
+
+# Yuukoku no Moriarty -> ~ 2nd season
+- 40911|43448|114124:12-24 -> 43325|43708|124858:1-13
