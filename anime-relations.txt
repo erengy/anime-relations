@@ -142,6 +142,8 @@
 - 31964|11469|21459:39-63 -> 36456|13881|100166:1-25!
 # Boku no Hero Academia -> ~ 4th Season
 - 31964|11469|21459:64-88 -> 38408|41971|104276:1-25!
+# Boku no Hero Academia -> ~ 5th Season
+- 31964|11469|21459:89-113 -> 41587|43108|117193:1-25!
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
@@ -1011,8 +1013,8 @@
 # Yurumates 3D: Ushinawareta Genjitsu -> Yurumates 3D Plus: Natsuyasumi Maison du Wish Report
 - 14949|7187|?:2 -> 31551|11371|?:1
 
+# Yuukoku no Moriarty -> ~ 2nd Season
+- 40911|43448|114124:12-24 -> 43325|43708|124858:1-13!
+
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. -> ~ OVA
 - 18677|7725|18677:13 -> 20545|8029|20551:1
-
-# Yuukoku no Moriarty -> ~ 2nd season
-- 40911|43448|114124:12-24 -> 43325|43708|124858:1-13
