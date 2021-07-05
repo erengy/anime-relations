@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-05-07
+- last_modified: 2021-07-01
 
 ::rules
 
@@ -973,6 +973,9 @@
 
 # Wolf's Rain -> ~ OVA
 - 202|7716|202:27-30 -> 1023|913|1023:1-4
+
+# Wonder Egg Priority -> ~ Special
+- 43299|43620|124845:13 -> 48614|44260|131773:1
 
 # Wooser no Sono Higurashi -> ~: Ken to Pantsu to Wooser to
 - 15313|7238|15313:13 -> 16738|7502|16738:1
