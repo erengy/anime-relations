@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-07-05
+- last_modified: 2021-07-06
 
 ::rules
 
@@ -899,7 +899,9 @@
 - 174|151|174:25-26 -> 448|411|448:1-2
 
 # Tensei shitara Slime Datta Ken -> ~ 2nd Season
-- 37430|41024|101280:25-? -> 39551|42196|108511:1-?!
+- 37430|41024|101280:25-36 -> 39551|42196|108511:1-12!
+# Tensei shitara Slime Datta Ken -> ~ 2nd Season Part 2
+- 37430|41024|101280:37-48 -> 41487|43361|116742:1-12!
 
 # The iDOLM@STER -> ~: 765 Pro to Iu Monogatari
 - 10278|6111|10278:765 -> 11889|6627|11889:1
