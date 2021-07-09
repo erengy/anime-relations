@@ -35,9 +35,12 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-07-07
+- last_modified: 2021-07-09
 
 ::rules
+
+# 100-man no Inochi no Ue ni Ore wa Tatteiru -> ~ 2nd Season
+- 41380|43367|116242:13-24 -> 44881|43883|127366:1-12!
 
 # 11eyes -> ~: Momoiro Genmutan
 - 6682|4662|6682:13 -> 7739|5102|7739:1
