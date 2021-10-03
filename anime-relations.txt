@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-10-04
+- last_modified: 2021-10-05
 
 ::rules
 
@@ -356,6 +356,9 @@
 - 918|818|918:342-353 -> 36838|14095|100784:1-12!
 # Gintama -> ~.: Shirogane no Tamashii-hen 2
 - 918|818|918:354-367 -> 37491|41079|101925:1-14!
+# Gintama.: Shirogane no Tamashii-hen -> ~ 2
+- 36838|14095|100784:13-26 -> 37491|41079|101925:1-14!
+- 36838|14095|100784:354-367 -> 37491|41079|101925:1-14
 
 # Glass no Hana to Kowasu Sekai -> ~
 - 25907|8971|21042:0 -> ~|~|~:1
