@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-07-09
+- last_modified: 2021-10-03
 
 ::rules
 
@@ -50,6 +50,9 @@
 
 # 3D Kanojo: Real Girl -> ~ 2nd Season
 - 36793|14276|100526:13-24 -> 37956|41973|102882:1-12!
+
+# 86 -> ~ 2nd Season
+- 41457|43066|116589:12 -> 48569|44398|131586:1
 
 # 91 Days -> ~: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita
 - 32998|11957|21711:13 -> 34777|13598|98778:1
