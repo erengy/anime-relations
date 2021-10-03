@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-07-09
+- last_modified: 2021-10-03
 
 ::rules
 
@@ -625,6 +625,9 @@
 - 21939|8204|20595:13-22 -> 24701|8581|20751:1-10
 # Mushishi Zoku Shou -> ~: Suzu no Shizuku
 - 21939|8204|20595:23-24 -> 28957|10084|21008:1
+
+# Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ 2nd Season
+- 39535|42323|108465:12-? -> 45576|43907|127720:1-?!
 
 # Nanbaka -> ~ (2017)
 - 30016|10467|21051:14-25 -> 34414|12768|97875:1-12!
