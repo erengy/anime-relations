@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-10-04
+- last_modified: 2021-11-20
 
 ::rules
 
@@ -1004,6 +1004,9 @@
 - 14355|7117|14355:13 -> 17341|7766|17341:1
 # Yama no Susume 2nd Season -> ~ Specials
 - 21435|8201|20485:25 -> 27887|9783|21003:2
+
+# Hanyou no Yashahime: Sengoku Otogizoushi -> ~ Ni no Shou
+- 41911|43180|118399:25-48 -> 48505|44199|131264:1-24!
 
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712|798:13 -> 1843|1660|1843:1
