@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-10-04
+- last_modified: 2022-01-09
 
 ::rules
 
@@ -828,10 +828,9 @@
 - 35760|13569|99147:50-59 -> 38524|41982|104578:1-10
 # Shingeki no Kyojin (The Final Season) -> ~
 - 40028|42422|110277:60-75 -> ~|~|~:1-16
-# Shingeki no Kyojin (The Final Season) -> ~
-- 40028|42422|110277:76-? -> 48583|44240|131681:1-?
 # Shingeki no Kyojin (The Final Season) -> ~ Part 2
 - 40028|42422|110277:17-? -> 48583|44240|131681:1-?
+- 40028|42422|110277:76-? -> 48583|44240|131681:1-?
 
 # Shokugeki no Souma: San no Sara -> ~ - Toutsuki Ressha-hen
 - 35788|13581|99255:13-24 -> 36949|14092|100773:1-12!
