@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-11-20
+- last_modified: 2022-01-08
 
 ::rules
 
@@ -338,6 +338,9 @@
 
 # Gate: Jieitai Kanochi nite, Kaku Tatakaeri -> ~ 2nd Season
 - 28907|10085|20994:13-24 -> 31637|11376|21364:1-12!
+
+# Genjitsu Shugi Yuusha no Oukoku Saikenki -> ~ 2nd Season
+- 41710|43613|117612:14-26 -> 49930|45252|139648:1-13!
 
 # Getsuyoubi no Tawawa -> ~ Specials
 - 34213|12640|97716:13-14 -> 34481|12932|98060:1-2
