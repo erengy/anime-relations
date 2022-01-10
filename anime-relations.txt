@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2021-10-17
+- last_modified: 2021-11-20
 
 ::rules
 
@@ -402,6 +402,9 @@
 
 # Hakkenden: Touhou Hakken Ibun -> ~ 2nd Season
 - 15613|7284|15613:14-26 -> 18055|7679|18055:1-13!
+
+# Hanyou no Yashahime: Sengoku Otogizoushi -> ~ - Ni no Shou
+- 41911|43180|118399:25-48 -> 48505|44199|131264:1-24!
 
 # Hataraku Saibou -> ~: Kaze Shoukougun
 - 37141|14212|100977:14 -> 38733|42007|105662:1
