@@ -356,6 +356,8 @@
 - 918|818|918:342-353 -> 36838|14095|100784:1-12!
 # Gintama -> ~.: Shirogane no Tamashii-hen 2
 - 918|818|918:354-367 -> 37491|41079|101925:1-14!
+# Gintama.: Shirogane no Tamashii-hen -> ~ 2
+- 36838|14095|100784:13-26 -> 37491|41079|101925:1-14
 
 # Glass no Hana to Kowasu Sekai -> ~
 - 25907|8971|21042:0 -> ~|~|~:1
@@ -380,6 +382,9 @@
 # Gurazeni -> ~ 2
 - 35183|13981|98479:13-24 -> 37990|41948|102974:1-12!
 
+# Hachigatsu no Cinderella Nine -> ~: Tsudzuku, Monogatari 
+- 38091|42144|104989:13 -> 49913|45268|139813:1
+
 # Hagure Yuusha no Aesthetica: Hajirai Ippai -> Queen's Blade Rebellion vs. Hagure Yuusha no Aesthetica
 - 15729|7298|15729:0 -> 14663|7152|14663:1
 
@@ -397,6 +402,9 @@
 
 # Hakkenden: Touhou Hakken Ibun -> ~ 2nd Season
 - 15613|7284|15613:14-26 -> 18055|7679|18055:1-13!
+
+# Hanyou no Yashahime: Sengoku Otogizoushi -> ~ - Ni no Shou
+- 41911|43180|118399:25-48 -> 48505|44199|131264:1-24!
 
 # Hataraku Saibou -> ~: Kaze Shoukougun
 - 37141|14212|100977:14 -> 38733|42007|105662:1
@@ -1004,9 +1012,6 @@
 - 14355|7117|14355:13 -> 17341|7766|17341:1
 # Yama no Susume 2nd Season -> ~ Specials
 - 21435|8201|20485:25 -> 27887|9783|21003:2
-
-# Hanyou no Yashahime: Sengoku Otogizoushi -> ~ Ni no Shou
-- 41911|43180|118399:25-48 -> 48505|44199|131264:1-24!
 
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712|798:13 -> 1843|1660|1843:1
