@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-01-10
+- last_modified: 2022-01-15
 
 ::rules
 
@@ -985,6 +985,9 @@
 
 # Ushio to Tora (TV) -> ~ 2nd Season
 - 29854|10359|21038:27-39 -> 31098|11126|21241:1-13!
+
+# Vanitas no Karte -> ~ Part 2
+- 48580|44241|131646:13-24 -> 49114|44672|135136:1-12!
 
 # ViVid Strike! -> ~ Specials
 - 33589|12304|21871:13 -> 34812|13344|98220:3
