@@ -440,7 +440,6 @@
 
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 2nd Season
 - 39468|42241|108268:15-26 -> 40815|42838|113693:1-12!
-
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 3rd Season
 - 39468|42241|108268:27-36 -> 42429|43607|121176:1-10!
 
