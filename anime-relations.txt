@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-01-15
+- last_modified: 2022-04-12
 
 ::rules
 
@@ -440,6 +440,8 @@
 
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 2nd Season
 - 39468|42241|108268:15-26 -> 40815|42838|113693:1-12!
+# Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 3rd Season
+- 39468|42241|108268:27-36 -> 42429|43607|121176:1-10!
 
 # Hourou Musuko -> ~
 - 8426|5331|8426:12 -> ~|~|~:11
