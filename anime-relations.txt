@@ -388,7 +388,7 @@
 # Gurazeni -> ~ 2
 - 35183|13981|98479:13-24 -> 37990|41948|102974:1-12!
 
-# Hachigatsu no Cinderella Nine -> ~: Tsudzuku, Monogatari 
+# Hachigatsu no Cinderella Nine -> ~: Tsudzuku, Monogatari
 - 38091|42144|104989:13 -> 49913|45268|139813:1
 
 # Hagure Yuusha no Aesthetica: Hajirai Ippai -> Queen's Blade Rebellion vs. Hagure Yuusha no Aesthetica
