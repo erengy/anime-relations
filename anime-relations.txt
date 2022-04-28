@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-04-13
+- last_modified: 2022-04-28
 
 ::rules
 
@@ -164,6 +164,9 @@
 
 # Bubuki Buranki -> ~: Hoshi no Kyojin
 - 32023|11486|21471:13-24 -> 33041|12004|21740:1-12
+
+# Build Divide: Code Black -> ~: Code White
+- 48776|44425|132525:13-24 -> 48777|44426|132526:1-12!
 
 # Bungou Stray Dogs -> ~ 2nd Season
 - 31478|11339|21311:13-24 -> 32867|11882|21679:1-12!
