@@ -244,8 +244,8 @@
 # Dakara Boku wa, H ga Dekinai. -> ~ OVA
 - 12549|7656|12549:13 -> 14893|7180|14893:1
 
-#  Danna ga Nani wo Itteiru ka Wakaranai Ken -> ~ 2-sure-me
-- 26349|8891|20735:14-26 -> 29067|10148|21000:1-13
+# Danna ga Nani wo Itteiru ka Wakaranai Ken -> ~ 2 Sure-me
+- 26349|8891|20735:14-26 -> 29067|10148|21000:1-13!
 
 # Darker than Black: Kuro no Keiyakusha -> ~ Special
 - 2025|1824|2025:26 -> 4182|3506|4182:1
