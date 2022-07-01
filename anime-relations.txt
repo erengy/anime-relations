@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-06-15
+- last_modified: 2022-07-01
 
 ::rules
 
@@ -510,6 +510,9 @@
 
 # Kanojo ga Flag wo Oraretara -> ~ OVA
 - 19685|8011|19685:14 -> 24451|8705|20731:1
+
+# Kanojo, Okarishimasu -> ~ 2nd Season
+- 40839|43028|113813:13-24 -> 42963|43588|124410:1-12!
 
 # Kara no Kyoukai 1 -> ~ 2,3,4,5,6,7
 - 2593|2357|2593:2 -> 3782|3248|3782:1
