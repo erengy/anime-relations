@@ -892,6 +892,9 @@
 # Spider Riders: Oracle no Yuusha-tachi -> Spider Riders: Yomigaeru Taiyou
 - 2619|2383|2619:27-52 -> 2620|2384|2620:1-26
 
+# Spy x Family -> ~ Part 2
+- 50265|45398|140960:13-25 -> 50602|45619|142838:1-13!
+
 # Steins;Gate 0 -> ~ Special
 - 30484|10788|21127:24 -> 37492|41443|104174:1
 
