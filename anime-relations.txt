@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-10-03
+- last_modified: 2022-10-07
 
 ::rules
 
@@ -593,6 +593,23 @@
 - 10893|6396|10893:0 -> 20723|8050|20443:1
 # Kyousou Giga (TV) -> ~ Recaps
 - 19703|7870|19703:0 -> 20723|8050|20443:1
+
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1 (AniList)
+- 20628:13-17 -> 100780:1-4!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 2 (AniList)
+- 20628:17-21 -> 100780:4-8!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3 (AniList)
+- 20628:21-25 -> 100780:8-12!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1
+- 31433|11331:13-17 -> 36369|13825:1-4!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 2
+- 31433|11331:17-21 -> 36370|42352:1-4!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3
+- 31433|11331:21-25 -> 36371|42353:1-4!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Collision
+- 31433|11331|20628:25-37 -> 42886|44169|124032:1-12!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Sakubou
+- 31433|11331|20628:37-49 -> 51805|46114|148970:1-12!
 
 # Log Horizon -> ~ 2
 - 17265|7622|17265:26-50 -> 23321|8313|20671:1-25!
