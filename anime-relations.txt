@@ -594,12 +594,8 @@
 # Kyousou Giga (TV) -> ~ Recaps
 - 19703|7870|19703:0 -> 20723|8050|20443:1
 
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1 (AniList)
-- 20628:13-17 -> 100780:1-4!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 2 (AniList)
-- 20628:17-21 -> 100780:4-8!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3 (AniList)
-- 20628:21-25 -> 100780:8-12!
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1/2/3 (AniList)
+- 20628:13-25 -> 100780:1-12!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1
 - 31433|11331:13-17 -> 36369|13825:1-4!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 2
