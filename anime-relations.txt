@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-10-03
+- last_modified: 2022-10-08
 
 ::rules
 
@@ -635,6 +635,9 @@
 
 # Marie & Gali -> ~ Episode Zero
 - 6130|4440|6130:0 -> 6355|4530|6355:1
+
+# Megaton-kyuu Musashi -> ~ 2nd Season
+- 33737|12509|87502:14-26 -> 50559|45580|142541:1-13!
 
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206|21268:26-50 -> 33051|12005|21749:1-25!
