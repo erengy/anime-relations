@@ -353,6 +353,16 @@
 # Getsuyoubi no Tawawa -> ~ Specials
 - 34213|12640|97716:13-14 -> 34481|12932|98060:1-2
 
+# Ginga Eiyuu Densetsu: Die Neue These -> ~ - Seiran
+- 31433|11331|?:13-16 -> 36369|13825|?:1-4!
+- 31433|11331|?:17-20 -> 36370|42352|?:1-4!
+- 31433|11331|?:21-24 -> 36371|42353|?:1-4!
+- ?|?|20628:13-24 -> ?|?|100780:1-12!
+# Ginga Eiyuu Densetsu: Die Neue These -> ~ - Gekitotsu
+- 31433|11331|20628:25-36 -> 42886|44169|124032:1-12!
+# Ginga Eiyuu Densetsu: Die Neue These -> ~ - Sakubou
+- 31433|11331|20628:37-48 -> 51805|46114|148970:1-12!
+
 # Gintama -> ~'
 - 918|818|918:202-252 -> 9969|5971|9969:1-51!
 # Gintama -> ~': Enchousen
@@ -593,19 +603,6 @@
 - 10893|6396|10893:0 -> 20723|8050|20443:1
 # Kyousou Giga (TV) -> ~ Recaps
 - 19703|7870|19703:0 -> 20723|8050|20443:1
-
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1/2/3 (AniList)
-- ?|?|20628:13-24 -> ?|?|100780:1-12!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1
-- 31433|11331|?:13-16 -> 36369|13825|?:1-4!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 2
-- 31433|11331|?:17-20 -> 36370|42352|?:1-4!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3
-- 31433|11331|?:21-24 -> 36371|42353|?:1-4!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Collision
-- 31433|11331|20628:25-36 -> 42886|44169|124032:1-12!
-# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Sakubou
-- 31433|11331|20628:37-48 -> 51805|46114|148970:1-12!
 
 # Log Horizon -> ~ 2
 - 17265|7622|17265:26-50 -> 23321|8313|20671:1-25!
