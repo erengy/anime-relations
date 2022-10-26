@@ -595,17 +595,17 @@
 - 19703|7870|19703:0 -> 20723|8050|20443:1
 
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1/2/3 (AniList)
-- ?|?|20628:13-25 -> ?|?|100780:1-12!
+- ?|?|20628:13-24 -> ?|?|100780:1-12!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 1
-- 31433|11331|?:13-17 -> 36369|13825|?:1-4!
+- 31433|11331|?:13-16 -> 36369|13825|?:1-4!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 2
-- 31433|11331|?:17-21 -> 36370|42352|?:1-4!
+- 31433|11331|?:17-20 -> 36370|42352|?:1-4!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Stellar War Part 3
-- 31433|11331|?:21-25 -> 36371|42353|?:1-4!
+- 31433|11331|?:21-24 -> 36371|42353|?:1-4!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Collision
-- 31433|11331|20628:25-37 -> 42886|44169|124032:1-12!
+- 31433|11331|20628:25-36 -> 42886|44169|124032:1-12!
 # Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Sakubou
-- 31433|11331|20628:37-49 -> 51805|46114|148970:1-12!
+- 31433|11331|20628:37-48 -> 51805|46114|148970:1-12!
 
 # Log Horizon -> ~ 2
 - 17265|7622|17265:26-50 -> 23321|8313|20671:1-25!
