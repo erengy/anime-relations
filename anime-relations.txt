@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-10-26
+- last_modified: 2022-11-08
 
 ::rules
 
@@ -771,6 +771,11 @@
 
 # Pingu in the City -> ~ 2nd Season
 - 36259|13783|99994:27-52 -> 38262|41981|99995:1-26!
+
+# Princess Principal: Crown Handler Movie 1 -> ~ 2
+- 37807|41254|101595:2 -> 41140|44680|129759:1
+# Princess Principal: Crown Handler Movie 1 -> ~ 3
+- 37807|41254|101595:3 -> 41141|44962|137612:1
 
 # PriPara -> ~ 2nd Season
 - ?|8555|20742:39-89 -> ?|10209|20985:1-51
