@@ -566,6 +566,9 @@
 # Kobayashi-san Chi no Maid Dragon -> ~: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
 - 33206|12243|21776:14 -> 35363|13861|98580:1
 
+# Kobayashi-san Chi no Maid Dragon S -> ~: Nippon no Omotenashi - Attend wa Dragon desu
+- 39247|42149|107717:13 -> 49893|45014|136436:1
+
 # Kokoro Connect -> ~ Michi Random
 - 11887|6626|11887:14-17 -> 16001|7355|16001:1-4
 
