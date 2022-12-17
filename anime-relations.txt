@@ -889,6 +889,11 @@
 - 40028|42422|110277:17-75 -> 48583|44240|131681:1-59
 - 40028|42422|110277:76-? -> 48583|44240|131681:1-?
 
+# Shingeki no Kyojin OVA -> Shingeki no Kyojin: Kuinaki Sentaku
+- 18397|7694|18397:4-5 -> 25781|8674|20811:1-2
+# Shingeki no Kyojin OVA -> Shingeki no Kyojin: Lost Girls
+- 18397|7694|18397:6-8 -> 36106|13718|99634:1-3
+
 # Shokugeki no Souma: San no Sara -> ~ - Toutsuki Ressha-hen
 - 35788|13581|99255:13-24 -> 36949|14092|100773:1-12!
 
