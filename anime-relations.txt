@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2022-12-17
+- last_modified: 2022-11-08
 
 ::rules
 
@@ -566,6 +566,9 @@
 # Kobayashi-san Chi no Maid Dragon -> ~: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
 - 33206|12243|21776:14 -> 35363|13861|98580:1
 
+# Kobayashi-san Chi no Maid Dragon S -> ~: Nippon no Omotenashi - Attend wa Dragon desu
+- 39247|42149|107717:13 -> 49893|45014|136436:1
+
 # Kokoro Connect -> ~ Michi Random
 - 11887|6626|11887:14-17 -> 16001|7355|16001:1-4
 
@@ -771,6 +774,11 @@
 
 # Pingu in the City -> ~ 2nd Season
 - 36259|13783|99994:27-52 -> 38262|41981|99995:1-26!
+
+# Princess Principal: Crown Handler Movie 1 -> ~ 2
+- 37807|41254|101595:2 -> 41140|44680|129759:1
+# Princess Principal: Crown Handler Movie 1 -> ~ 3
+- 37807|41254|101595:3 -> 41141|44962|137612:1
 
 # PriPara -> ~ 2nd Season
 - ?|8555|20742:39-89 -> ?|10209|20985:1-51
@@ -1044,6 +1052,9 @@
 
 # Vanitas no Karte -> ~ Part 2
 - 48580|44241|131646:13-24 -> 49114|44672|135136:1-12!
+
+# Violet Evergarden -> ~ Special
+- 33352|12230|21827:14 -> 37095|41155|101432:1
 
 # ViVid Strike! -> ~ Specials
 - 33589|12304|21871:13 -> 34812|13344|98220:3
