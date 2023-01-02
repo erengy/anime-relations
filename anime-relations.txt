@@ -496,6 +496,9 @@
 
 # Jojo's Bizarre Adventure: Stone Ocean -> ~ Part 2
 - 48661|44294|131942:13-24 -> 51367|46010|146722:1-12!
+- ?|?|131942:25-38 -> ?|?|146722:13-26!
+# Jojo's Bizarre Adventure: Stone Ocean -> ~ Part 3
+- 48661|44294|?:25-38 -> 53273|46598|?:1-14!
 
 # Jormungand -> ~: Perfect Order
 - 12413|6726|12413:13-24 -> 13331|6940|13331:1-12!
