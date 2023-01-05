@@ -176,6 +176,8 @@
 - 31478|11339|21311:25 -> 33071|12051|21791:1
 # Bungou Stray Dogs -> ~ 3rd Season
 - 31478|11339|21311:26-37 -> 38003|41984|103223:1-12!
+# Bungou Stray Dogs -> ~ 4th Season
+- 31478|11339|21311:38-50 -> 50330|45460|141249:1-13!
 
 # Busou Shoujo Machiavellianism -> ~: Doki! "Goken-darake" no Ian Ryokou
 - 33475|12265|21851:13 -> 35314|14261|98856:1
