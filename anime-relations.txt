@@ -292,6 +292,8 @@
 
 # Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka -> ~ OVA
 - 28121|9962|20920:14 -> 32801|11851|21660:1
+# Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka S4 -> ~ Part 2
+- 47164|44031|129196:12-22 -> 53111|46556|155211:1-11!
 
 # Durarara!! -> ~ Specials
 - 6746|4696|6746:25 -> 8408|5324|8408:2
