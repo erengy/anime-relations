@@ -799,7 +799,7 @@
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
 
 # Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season
-- 31240|11209|21355:26-38 -> 39587|42198|108632:1-13!
+- 31240|11209|21355:26-38 -> 39587|42198|108632:1-13
 # Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season Part 2
 - 31240|11209|21355:39-50 -> 42203|43247|119661:1-12!
 # Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season -> ~ Part 2
