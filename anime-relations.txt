@@ -707,8 +707,13 @@
 # Mushishi Zoku Shou -> ~: Suzu no Shizuku
 - 21939|8204|20595:23-24 -> 28957|10084|21008:1
 
-# Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ 2nd Season
+# Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ Part 2
 - 39535|42323|108465:12-23 -> 45576|43907|127720:1-12!
+
+# Mushoku Tensei II: Isekai Ittara Honki Dasu -> ~ - Shugo Jutsushi Fitz
+- 51179|45950|?:0 -> 55818|47683|?:1
+# Mushoku Tensei II: Isekai Ittara Honki Dasu -> ~
+- ?|?|146065:0-? -> ?|?|146065:1-?
 
 # Muv-Luv Alternative -> ~ 2nd Season
 - 40608|43690|112716:13-24 -> 50638|45656|142985:1-12!
