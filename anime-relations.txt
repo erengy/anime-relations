@@ -807,8 +807,8 @@
 # PriPara -> ~ 3rd Season
 - ?|8555|20742:90-140 -> ?|12683|21559:1-51
 
-# Pokemon -> Pokemon Advanced Generation
-- 527|486|527:277-469 -> 1564|1404|1564:1-192
+# Pokemon -> ~ Advanced Generation
+- 527|486|527:277-468 -> 1564|1404|1564:1-192
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
