@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-06-12
+- last_modified: 2023-07-06
 
 ::rules
 
@@ -512,6 +512,9 @@
 
 # Jormungand -> ~: Perfect Order
 - 12413|6726|12413:13-24 -> 13331|6940|13331:1-12!
+
+# Jujutsu Kaisen -> ~ 2nd Season
+- 40748|42765|113415:25-47 -> 51009|45857|145064:1-23!
 
 # K-On! -> ~: Live House!
 - 5680|4240|5680:14 -> 6862|4758|6862:1
