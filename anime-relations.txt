@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-07-06
+- last_modified: 2023-07-07
 
 ::rules
 
@@ -555,6 +555,9 @@
 # Kanojo, Okarishimasu -> ~ 2nd Season
 - 40839|43028|113813:13-24 -> 42963|43588|124410:1-12!
 
+# Kanojo, Okarishimasu -> ~ 3rd Season
+- 40839|43028|113813:25-36 -> 53050|46489|154745:1-12!
+
 # Kara no Kyoukai 1 -> ~ 2,3,4,5,6,7
 - 2593|2357|2593:2 -> 3782|3248|3782:1
 - 2593|2357|2593:3 -> 3783|3249|3783:1
@@ -967,6 +970,10 @@
 
 # Suisei no Gargantia -> ~ Specials
 - 16524|7449|16524:14-15 -> 19211|7872|19211:1-2
+
+# Sugar Apple Fairy Tale -> ~ Part 2
+- 49980|45270|139821:13-25 -> 54842|47231|163079:1-12!
+
 # Puchitto Gargantia -> ~ Special
 - 18413|7751|18413:14 -> 23099|8592|21863:1
 
