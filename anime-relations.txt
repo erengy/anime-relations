@@ -691,7 +691,7 @@
 # Mobile Suit Gundam Thunderbolt -> ~ 2nd Season
 - 31973|11476|21458:5-8 -> 34391|12755|97853:1-4
 
-# Monogatari -> ~ 2nd Season
+# Mononogatari -> ~ 2nd Season
 - 50384|45509|141785:13-24 -> 54883|47269|163205:1-12!
 
 # Monster Farm: Enbanseki no Himitsu -> Monster Farm: Legend e no Michi
