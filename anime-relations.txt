@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-07-07
+- last_modified: 2023-07-08
 
 ::rules
 
@@ -143,6 +143,9 @@
 
 # Black Lagoon -> ~: The Second Barrage
 - 889|789|889:13-24 -> 1519|1363|1519:1-12!
+
+# Bleach: Sennen Kessen-hen -> ~ - Ketsubetsu-tan
+- 41467|43078|116674:14-26 -> 53998|46903|159322:1-13!
 
 # Boku no Hero Academia -> ~ 2nd Season
 - 31964|11469|21459:14-38 -> 33486|12268|21856:1-25
