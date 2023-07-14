@@ -449,6 +449,9 @@
 # Hanyou no Yashahime: Sengoku Otogizoushi -> ~ - Ni no Shou
 - 41911|43180|118399:25-48 -> 48505|44199|131264:1-24!
 
+# Hataraku Maou-sama!! -> ~ 2nd Season
+- 48413|44113|130592:13-24 -> 53200|46550|155168:1-12!
+
 # Hataraku Saibou -> ~: Kaze Shoukougun
 - 37141|14212|100977:14 -> 38733|42007|105662:1
 
