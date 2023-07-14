@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-07-08
+- last_modified: 2023-07-14
 
 ::rules
 
@@ -184,6 +184,8 @@
 - 31478|11339|21311:26-37 -> 38003|41984|103223:1-12!
 # Bungou Stray Dogs -> ~ 4th Season
 - 31478|11339|21311:38-50 -> 50330|45460|141249:1-13!
+# Bungou Stray Dogs -> ~ 5th Season
+- 50330|45460|141249:51-62 -> 54898|47258|163263:1-11!
 
 # Busou Shoujo Machiavellianism -> ~: Doki! "Goken-darake" no Ian Ryokou
 - 33475|12265|21851:13 -> 35314|14261|98856:1
@@ -966,6 +968,9 @@
 
 # Spider Riders: Oracle no Yuusha-tachi -> Spider Riders: Yomigaeru Taiyou
 - 2619|2383|2619:27-52 -> 2620|2384|2620:1-26
+
+# Spy Kyoushitsu -> ~ 2nd Season
+- 51252|45966|146323:13-24 -> 54947|47288|163542:1-12!
 
 # Spy x Family -> ~ Part 2
 - 50265|45398|140960:13-25 -> 50602|45619|142838:1-13!
