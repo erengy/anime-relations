@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-07-13
+- last_modified: 2023-10-04
 
 ::rules
 
@@ -528,6 +528,9 @@
 - 5680|4240|5680:14 -> 6862|4758|6862:1
 # K-On!! -> ~: Keikaku!
 - 7791|5124|7791:27 -> 9734|5841|9734:1
+
+# Kage no Jitsuryokusha ni Naritakute! -> ~ 2nd Season
+- 48316|44107|130298:21-32 -> 54595|47099|161964:1-12!
 
 # Kaginado -> ~ Season 2
 - 48775|44420|132528:13-? -> 50685|45699|143150:1-?!
