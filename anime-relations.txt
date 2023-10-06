@@ -108,7 +108,7 @@
 # Ao Oni The Animation (Movie) -> ~
 - 33820|12478|21898:0 -> ~|~|~:1
 
-# Arknights: Fuyukomori Kaerimichi -> ~
+# Arknights: Reimei Zensou -> Arknights: Fuyukomori Kaerimichi
 - 50205|45367|140660:9-16 -> 53881|46880|158895:1-8!
 
 # Baccano! -> ~ Specials
