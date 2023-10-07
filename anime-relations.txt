@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-06
+- last_modified: 2023-10-09
 
 ::rules
 
@@ -269,6 +269,9 @@
 - 15583|7278|15583:13 -> 17641|7839|17641:1
 # Date A Live II -> Date A Live: Encore OVA
 - 19163|7864|19163:11 -> 22961|8511|20767:1
+
+# Dead Mount Death Play -> ~ Part 2
+- 53613|46760|157198:13-24 -> 54743|47195|162803:1-12
 
 # Demi-chan wa Kataritai -> ~: Demi-chan no Natsuyasumi
 - 33988|12529|97592:13 -> 35823|13591|99394:1
