@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-06
+- last_modified: 2023-10-07
 
 ::rules
 
@@ -995,6 +995,8 @@
 
 # Spy x Family -> ~ Part 2
 - 50265|45398|140960:13-25 -> 50602|45619|142838:1-13!
+# Spy x Family -> ~ Season 2
+- 50265|45398|140960:26-37 -> 53887|46873|158927:1-12!
 
 # Steins;Gate 0 -> ~ Special
 - 30484|10788|21127:24 -> 37492|41443|104174:1
