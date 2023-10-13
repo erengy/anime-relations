@@ -683,7 +683,7 @@
 # Magic Knight Rayearth -> ~ II
 - 435|399|435:21-49 -> 1563|1403|1563:1-29!
 
-# Mahoutsukai no Yome Season 2 -> ~ Part 2
+# Mahoutsukai no Yome Season 2 -> Mahoutsukai no Yome Season 2 Part 2
 - 52955|46436|154364:13-24 -> 55742|47649|166452:1-12!
 
 # Major S1 -> ~ S2,S3,S4,S5,S6
