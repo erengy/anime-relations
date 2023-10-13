@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-09
+- last_modified: 2023-10-13
 
 ::rules
 
@@ -297,6 +297,9 @@
 
 # Douluo Dalu -> ~: Jingying Sai
 - 37150|41004|101920:27-78 -> 37822|42037|103543:1-52
+
+# Dr. Stone New World -> ~ Part 2
+- 48549|44289|131518:12-22 -> 55644|47246|162670:1-11!
 
 # Dragon Ball Kai -> ~: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 - 6033|4394|6033:98 -> 11359|6500|11359:1
