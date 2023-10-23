@@ -572,6 +572,9 @@
 # Kanojo ga Flag wo Oraretara -> ~ OVA
 - 19685|8011|19685:14 -> 24451|8705|20731:1
 
+# Kanojo mo Kanojo -> ~ Season 2
+- 43969|44165|126192:13-24 -> 53040|46486|154692:1-12!
+
 # Kanojo, Okarishimasu -> ~ 2nd Season
 - 40839|43028|113813:13-24 -> 42963|43588|124410:1-12!
 # Kanojo, Okarishimasu -> ~ 3rd Season
