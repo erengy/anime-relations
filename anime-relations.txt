@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-13
+- last_modified: 2024-01-06
 
 ::rules
 
@@ -478,6 +478,9 @@
 - 24703|8514|20745:13 -> 32215|11598|21573:1
 # High School DxD Hero -> ~: Taiikukan-ura no Holy
 - 34281|12677|?:0 -> 37719|41208|?:1
+
+# Hikari no Ou -> ~ Season 2
+- 43760|45818|125869:11-? -> 54754|47194|162842:1-?
 
 # Hipira-kun -> ~ ONA
 - 7723|5097|7723:11-12 -> 22983|8585|104388:1-2
