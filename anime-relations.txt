@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-13
+- last_modified: 2024-01-06
 
 ::rules
 
@@ -469,6 +469,9 @@
 
 # Hibike! Euphonium -> ~: Kakedasu Monaka
 - 27989|9980|20912:14 -> 31665|11391|21376:1
+
+# High Card -> ~ Season 2
+- 49154|44706|135778:13-24 -> 54869|47250|163151:1-12!
 
 # High School DxD -> ~ OVA
 - 11617|6550|11617:13-14 -> 12729|6801|12729:1-2
