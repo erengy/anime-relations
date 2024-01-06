@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-13
+- last_modified: 2024-01-06
 
 ::rules
 
@@ -1125,6 +1125,9 @@
 
 # Urawa no Usagi-chan -> ~ Special
 - 27927|9949|20949:13 -> 31426|11345|21433:1
+
+# Urusei Yatsura (2022) -> ~ 2nd Season
+- 50710|45694|143277:24-46 -> 54829|46620|155645:1-23!
 
 # Ushio to Tora (TV) -> ~ 2nd Season
 - 29854|10359|21038:27-39 -> 31098|11126|21241:1-13!
