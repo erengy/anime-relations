@@ -1036,7 +1036,7 @@
 # Sword Art Online: Alicization - War of Underworld -> ~ 2nd Season
 - 39597|42213|108759:13-23 -> 40540|42927|114308:1-11!
 
-# SYNDUALITY Noir -> ~ Part 2
+# Synduality: Noir -> ~ Part 2
 - 53026|46477|154643:13-24 -> 56731|47999|169559:1-12!
 
 # Tales of Zestiria the X -> ~: Saiyaku no Jidai
