@@ -1003,6 +1003,9 @@
 # Souten no Ken: REGENESIS -> ~ 2
 - 36655|13983|100408:13-24 -> 37388|41953|102860:1-12!
 
+# Souten no Ken -> ~ Specials
+- 1541|1382|1541:23-26 -> 3864|3308|3864:1-4
+
 # Space☆Dandy -> ~ 2nd Season
 - 20057|7910|20057:14-26 -> 23327|8312|20666:1-13
 # Space☆Dandy Picture Drama -> Space☆Dandy 2nd Season Picture Drama
