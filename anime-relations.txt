@@ -1167,6 +1167,9 @@
 # Watashi ni Tenshi ga Maiorita! -> ~ Special
 - 37993|41403|102680:13 -> 38999|42141|107138:1
 
+# Watashi no Shiawase na Kekkon -> ~: Watashi no Shiawase na Katachi
+- 51552|46050|147103:13 -> 55889|47800|167486:1
+
 # White Album -> ~ 2nd Season
 - 4720|3760|4720:14-26 -> 6165|4455|6165:1-13!
 
