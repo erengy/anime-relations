@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-10-13
+- last_modified: 2024-04-06
 
 ::rules
 
@@ -162,6 +162,9 @@
 - 31964|11469|21459:89-113 -> 41587|43108|117193:1-25!
 # Boku no Hero Academia -> ~ 6th Season
 - 31964|11469|21459:114-138 -> 49918|45240|139630:1-25!
+
+# Boku no Kokoro no Yabai Yatsu -> ~ Season 2
+- 52578|46299|153152:13-25 -> 55690|47634|166216:1-13!
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
@@ -470,6 +473,9 @@
 # Hibike! Euphonium -> ~: Kakedasu Monaka
 - 27989|9980|20912:14 -> 31665|11391|21376:1
 
+# High Card -> ~ Season 2
+- 49154|44706|135778:13-24 -> 54869|47250|163151:1-12!
+
 # High School DxD -> ~ OVA
 - 11617|6550|11617:13-14 -> 12729|6801|12729:1-2
 # High School DxD New -> ~: Oppai, Tsutsumimasu!
@@ -478,6 +484,9 @@
 - 24703|8514|20745:13 -> 32215|11598|21573:1
 # High School DxD Hero -> ~: Taiikukan-ura no Holy
 - 34281|12677|?:0 -> 37719|41208|?:1
+
+# Hikari no Ou -> ~ 2nd Season
+- 43760|45818|125869:11-? -> 54754|47194|162842:1-?
 
 # Hipira-kun -> ~ ONA
 - 7723|5097|7723:11-12 -> 22983|8585|104388:1-2
@@ -571,6 +580,9 @@
 
 # Kanojo ga Flag wo Oraretara -> ~ OVA
 - 19685|8011|19685:14 -> 24451|8705|20731:1
+
+# Kanojo mo Kanojo -> ~ Season 2
+- 43969|44165|126192:13-24 -> 53040|46486|154692:1-12!
 
 # Kanojo, Okarishimasu -> ~ 2nd Season
 - 40839|43028|113813:13-24 -> 42963|43588|124410:1-12!
@@ -709,6 +721,9 @@
 
 # Marie & Gali -> ~ Episode Zero
 - 6130|4440|6130:0 -> 6355|4530|6355:1
+
+# Mashle -> ~ 2nd Season
+- 52211|46229|151801:13-24 -> 55813|47671|166610:1-12!
 
 # Megaton-kyuu Musashi -> ~ 2nd Season
 - 33737|12509|87502:14-28 -> 50559|45580|142541:1-15!
@@ -985,6 +1000,8 @@
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322|21873:13 -> 34538|13004|98843:1
 
+# Souten no Ken -> ~ Specials
+- 1541|1382|1541:23-26 -> 3864|3308|3864:1-4
 # Souten no Ken: REGENESIS -> ~ 2
 - 36655|13983|100408:13-24 -> 37388|41953|102860:1-12!
 
@@ -1020,6 +1037,9 @@
 
 # Sword Art Online: Alicization - War of Underworld -> ~ 2nd Season
 - 39597|42213|108759:13-23 -> 40540|42927|114308:1-11!
+
+# Synduality: Noir -> ~ Part 2
+- 53026|46477|154643:13-24 -> 56731|47999|169559:1-12!
 
 # Tales of Zestiria the X -> ~: Saiyaku no Jidai
 - 30911|11023|?:0 -> 33558|12283|?:1
@@ -1067,6 +1087,8 @@
 - 37430|41024|101280:25-36 -> 39551|42196|108511:1-12!
 # Tensei shitara Slime Datta Ken -> ~ 2nd Season Part 2
 - 37430|41024|101280:37-48 -> 41487|43361|116742:1-12!
+# Tensei shitara Slime Datta Ken -> ~ 3rd Season
+- 37430|41024|101280:49-72 -> 53580|46729|156822:1-24!
 # Tensei shitara Slime Datta Ken 2nd Season -> ~ Part 2
 - 39551|42196|108511:13-24 -> 41487|43361|116742:1-12!
 
@@ -1126,6 +1148,9 @@
 # Urawa no Usagi-chan -> ~ Special
 - 27927|9949|20949:13 -> 31426|11345|21433:1
 
+# Urusei Yatsura (2022) -> ~ 2nd Season
+- 50710|45694|143277:24-46 -> 54829|46620|155645:1-23!
+
 # Ushio to Tora (TV) -> ~ 2nd Season
 - 29854|10359|21038:27-39 -> 31098|11126|21241:1-13!
 
@@ -1143,6 +1168,9 @@
 
 # Watashi ni Tenshi ga Maiorita! -> ~ Special
 - 37993|41403|102680:13 -> 38999|42141|107138:1
+
+# Watashi no Shiawase na Kekkon -> ~: Watashi no Shiawase na Katachi
+- 51552|46050|147103:13 -> 55889|47800|167486:1
 
 # White Album -> ~ 2nd Season
 - 4720|3760|4720:14-26 -> 6165|4455|6165:1-13!
