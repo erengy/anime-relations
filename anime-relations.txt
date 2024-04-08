@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-04-06
+- last_modified: 2024-04-07
 
 ::rules
 
@@ -984,8 +984,7 @@
 # Shinigami Bocchan to Kuro Maid -> ~ 2nd Season
 - 47257|44035|129277:13-24 -> 49858|45229|139435:1-12!
 # Shinigami Bocchan to Kuro Maid -> ~ 3rd Season
-- 49858|45229|139435:25-? -> 56738|47984|169584:1-?!
-
+- 47257|44035|129277:25-? -> 56738|47984|169584:1-?!
 
 # Shokugeki no Souma: San no Sara -> ~ - Toutsuki Ressha-hen
 - 35788|13581|99255:13-24 -> 36949|14092|100773:1-12!
