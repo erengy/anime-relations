@@ -159,6 +159,10 @@
 - 31964|11469|21459:89-113 -> 41587|43108|117193:1-25!
 # Boku no Hero Academia -> ~ 6th Season
 - 31964|11469|21459:114-138 -> 49918|45240|139630:1-25!
+# Boku no Hero Academia -> ~ 7th Season
+- 31964|11469|21459:139-165 -> 54789|47232|163139:5-29!
+# Boku no Hero Academia : Memories -> Boku no Hero Academia 7th Season
+- 57519|48700|?:1-4 -> 55454|47495|?:5-29!
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
