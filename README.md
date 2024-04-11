@@ -8,9 +8,13 @@ This repository includes anime relation data for [Taiga](https://github.com/eren
     └─┬─┘ └─┬─┘ └─┬─┘ └─┬─┘    └─┬─┘ └─┬─┘ └─┬─┘ └─┬─┘
       1     2     3     4        1     2     3     4
 
-1. MyAnimeList ID - `https://myanimelist.net/anime/{id}/{title}`
-2. Kitsu ID - `https://kitsu.io/api/edge/anime?filter[text]={title}`
-3. AniList ID - `https://anilist.co/anime/{id}/{title}`
+1. MyAnimeList ID<br>
+`https://myanimelist.net/anime/{id}/{title}`
+2. Kitsu ID<br>
+`https://media.kitsu.io/anime/{id}/poster_image/{size}.jpeg` or<br>
+`https://kitsu.io/api/edge/anime?filter[text]={title}`
+3. AniList ID<br>
+`https://anilist.co/anime/{id}/{title}`
 4. Episode number or range
 
 - `?` is used for unknown values.
