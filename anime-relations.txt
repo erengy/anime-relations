@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2023-04-01
+- last_modified: 2024-04-07
 
 ::rules
 
@@ -108,6 +108,9 @@
 # Ao Oni The Animation (Movie) -> ~
 - 33820|12478|21898:0 -> ~|~|~:1
 
+# Arknights: Reimei Zensou -> Arknights: Fuyukomori Kaerimichi
+- 50205|45367|140660:9-16 -> 53881|46880|158895:1-8!
+
 # Baccano! -> ~ Specials
 - 2251|2039|2251:14-16 -> 3901|3334|3901:1-3
 
@@ -127,6 +130,9 @@
 # Bikini Warriors -> ~ OVA
 - 30782|10920|21192:14-15 -> 33712|12452|87480:1-2
 
+# Birdie Wing: Golf Girls' Story -> ~ Season 2
+- 50248|45391|140830:14-25 -> 52229|46218|151606:1-12!
+
 # Bishoujo Senshi Sailor Moon -> ~ R
 - 530|489|530:47-89 -> 740|664|740:1-43!
 # Bishoujo Senshi Sailor Moon -> ~ S
@@ -141,6 +147,9 @@
 # Black Lagoon -> ~: The Second Barrage
 - 889|789|889:13-24 -> 1519|1363|1519:1-12!
 
+# Bleach: Sennen Kessen-hen -> ~ - Ketsubetsu-tan
+- 41467|43078|116674:14-26 -> 53998|46903|159322:1-13!
+
 # Boku no Hero Academia -> ~ 2nd Season
 - 31964|11469|21459:14-38 -> 33486|12268|21856:1-25
 # Boku no Hero Academia 2nd Season -> ~: Hero Note
@@ -153,6 +162,9 @@
 - 31964|11469|21459:89-113 -> 41587|43108|117193:1-25!
 # Boku no Hero Academia -> ~ 6th Season
 - 31964|11469|21459:114-138 -> 49918|45240|139630:1-25!
+
+# Boku no Kokoro no Yabai Yatsu -> ~ Season 2
+- 52578|46299|153152:13-25 -> 55690|47634|166216:1-13!
 
 # Boku wa Tomodachi ga Sukunai -> ~ Episode 0
 - 10719|6316|10719:0 -> 10897|6397|10897:1
@@ -178,6 +190,8 @@
 - 31478|11339|21311:26-37 -> 38003|41984|103223:1-12!
 # Bungou Stray Dogs -> ~ 4th Season
 - 31478|11339|21311:38-50 -> 50330|45460|141249:1-13!
+# Bungou Stray Dogs -> ~ 5th Season
+- 31478|11339|21311:51-61 -> 54898|47258|163263:1-11!
 
 # Busou Shoujo Machiavellianism -> ~: Doki! "Goken-darake" no Ian Ryokou
 - 33475|12265|21851:13 -> 35314|14261|98856:1
@@ -259,6 +273,9 @@
 # Date A Live II -> Date A Live: Encore OVA
 - 19163|7864|19163:11 -> 22961|8511|20767:1
 
+# Dead Mount Death Play -> ~ Part 2
+- 53613|46760|157198:13-24 -> 54743|47195|162803:1-12!
+
 # Demi-chan wa Kataritai -> ~: Demi-chan no Natsuyasumi
 - 33988|12529|97592:13 -> 35823|13591|99394:1
 
@@ -284,6 +301,9 @@
 # Douluo Dalu -> ~: Jingying Sai
 - 37150|41004|101920:27-78 -> 37822|42037|103543:1-52
 
+# Dr. Stone New World -> ~ Part 2
+- 48549|44289|131518:12-22 -> 55644|47246|162670:1-11!
+
 # Dragon Ball Kai -> ~: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 - 6033|4394|6033:98 -> 11359|6500|11359:1
 # Dragon Ball Kai -> ~ (2014)
@@ -303,6 +323,9 @@
 - 23199|8314|20652:13-24 -> 27831|9726|20879:1-12!
 # Durarara!!x2 Shou -> Durarara!!x2 Ketsu
 - 23199|8314|20652:25-36 -> 27833|9725|20880:1-12!
+
+# Edens Zero -> ~ 2nd Season
+- 42192|43521|119683:26-? -> 50002|45847|144932:1-?!
 
 # Fairy Gone -> ~ 2nd Season
 - 39063|42130|107418:13-24 -> 39811|42358|109562:1-12!
@@ -438,6 +461,9 @@
 # Hanyou no Yashahime: Sengoku Otogizoushi -> ~ - Ni no Shou
 - 41911|43180|118399:25-48 -> 48505|44199|131264:1-24!
 
+# Hataraku Maou-sama!! -> ~ 2nd Season
+- 48413|44113|130592:13-24 -> 53200|46550|155168:1-12!
+
 # Hataraku Saibou -> ~: Kaze Shoukougun
 - 37141|14212|100977:14 -> 38733|42007|105662:1
 
@@ -447,6 +473,9 @@
 # Hibike! Euphonium -> ~: Kakedasu Monaka
 - 27989|9980|20912:14 -> 31665|11391|21376:1
 
+# High Card -> ~ Season 2
+- 49154|44706|135778:13-24 -> 54869|47250|163151:1-12!
+
 # High School DxD -> ~ OVA
 - 11617|6550|11617:13-14 -> 12729|6801|12729:1-2
 # High School DxD New -> ~: Oppai, Tsutsumimasu!
@@ -455,6 +484,9 @@
 - 24703|8514|20745:13 -> 32215|11598|21573:1
 # High School DxD Hero -> ~: Taiikukan-ura no Holy
 - 34281|12677|?:0 -> 37719|41208|?:1
+
+# Hikari no Ou -> ~ 2nd Season
+- 43760|45818|125869:11-? -> 54754|47194|162842:1-?
 
 # Hipira-kun -> ~ ONA
 - 7723|5097|7723:11-12 -> 22983|8585|104388:1-2
@@ -507,13 +539,22 @@
 # Jormungand -> ~: Perfect Order
 - 12413|6726|12413:13-24 -> 13331|6940|13331:1-12!
 
+# Jujutsu Kaisen -> ~ 2nd Season
+- 40748|42765|113415:25-47 -> 51009|45857|145064:1-23!
+
 # K-On! -> ~: Live House!
 - 5680|4240|5680:14 -> 6862|4758|6862:1
 # K-On!! -> ~: Keikaku!
 - 7791|5124|7791:27 -> 9734|5841|9734:1
 
+# Kage no Jitsuryokusha ni Naritakute! -> ~ 2nd Season
+- 48316|44107|130298:21-32 -> 54595|47099|161964:1-12!
+
 # Kaginado -> ~ Season 2
 - 48775|44420|132528:13-? -> 50685|45699|143150:1-?!
+
+# Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai -> ~
+- 52198|46206|?:1-4 -> ~|~|?:1
 
 # Kaitou Joker -> ~ 2nd Season
 - 24909|8664|20818:14-26 -> 28869|10070|21004:1-13!
@@ -540,8 +581,13 @@
 # Kanojo ga Flag wo Oraretara -> ~ OVA
 - 19685|8011|19685:14 -> 24451|8705|20731:1
 
+# Kanojo mo Kanojo -> ~ Season 2
+- 43969|44165|126192:13-24 -> 53040|46486|154692:1-12!
+
 # Kanojo, Okarishimasu -> ~ 2nd Season
 - 40839|43028|113813:13-24 -> 42963|43588|124410:1-12!
+# Kanojo, Okarishimasu -> ~ 3rd Season
+- 40839|43028|113813:25-36 -> 53050|46489|154745:1-12!
 
 # Kara no Kyoukai 1 -> ~ 2,3,4,5,6,7
 - 2593|2357|2593:2 -> 3782|3248|3782:1
@@ -550,6 +596,9 @@
 - 2593|2357|2593:5 -> 4282|3546|4282:1
 - 2593|2357|2593:6 -> 5204|3983|5204:1
 - 2593|2357|2593:7 -> 5205|3984|5205:1
+
+# Kidou Senshi Gundam: Suisei no Majo -> ~ Season 2
+- 49828|45217|139274:13-24 -> 53199|46561|155158:1-12!
 
 # Kimi ni Todoke 2nd Season -> ~: Kataomoi
 - 9656|5820|9656:0 -> 10152|6055|10152:1
@@ -569,6 +618,9 @@
 - 9260|5649|9260:2 -> 31757|11406|21399:1
 # Kizumonogatari I: Tekketsu-hen -> Kizumonogatari III: Reiketsu-hen
 - 9260|5649|9260:3 -> 31758|11407|21400:1
+
+# Kizuna no Allele -> ~ Season 2
+- 51139|46732|156896:13-24 -> 55775|47672|166523:1-12!
 
 # Kobayashi-san Chi no Maid Dragon -> ~: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai
 - 33206|12243|21776:14 -> 35363|13861|98580:1
@@ -640,8 +692,14 @@
 # Lupin III (2015) -> ~ Specials
 - 27947|9958|20906:25-26 -> 33074|12018|21822:1-2
 
+# Magia Record 2nd Season -> Magia Record Final Season
+- 41530|43090|117002:9-12 -> 49291|44813|136080:1-4!
+
 # Magic Knight Rayearth -> ~ II
 - 435|399|435:21-49 -> 1563|1403|1563:1-29!
+
+# Mahoutsukai no Yome Season 2 -> ~ Part 2
+- 52955|46436|154364:13-24 -> 55742|47649|166452:1-12!
 
 # Major S1 -> ~ S2,S3,S4,S5,S6
 - 627|582|627:27-52 -> 558|515|558:1-26!
@@ -664,14 +722,20 @@
 # Marie & Gali -> ~ Episode Zero
 - 6130|4440|6130:0 -> 6355|4530|6355:1
 
+# Mashle -> ~ 2nd Season
+- 52211|46229|151801:13-24 -> 55813|47671|166610:1-12!
+
 # Megaton-kyuu Musashi -> ~ 2nd Season
-- 33737|12509|87502:14-26 -> 50559|45580|142541:1-13!
+- 33737|12509|87502:14-28 -> 50559|45580|142541:1-15!
 
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206|21268:26-50 -> 33051|12005|21749:1-25!
 
 # Mobile Suit Gundam Thunderbolt -> ~ 2nd Season
 - 31973|11476|21458:5-8 -> 34391|12755|97853:1-4
+
+# Mononogatari -> ~ 2nd Season
+- 50384|45509|141785:13-24 -> 54883|47269|163205:1-12!
 
 # Monster Farm: Enbanseki no Himitsu -> Monster Farm: Legend e no Michi
 - 1469|1315|1469:49-73 -> 13201|6909|13201:1-25
@@ -695,8 +759,10 @@
 # Mushishi Zoku Shou -> ~: Suzu no Shizuku
 - 21939|8204|20595:23-24 -> 28957|10084|21008:1
 
-# Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ 2nd Season
+# Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ Part 2
 - 39535|42323|108465:12-23 -> 45576|43907|127720:1-12!
+# Mushoku Tensei II: Isekai Ittara Honki Dasu -> ~ Part 2
+- 51179|45950|146065:13-24 -> 55888|47694|166873:1-12!
 
 # Muv-Luv Alternative -> ~ 2nd Season
 - 40608|43690|112716:13-24 -> 50638|45656|142985:1-12!
@@ -794,6 +860,9 @@
 - ?|8555|20742:39-89 -> ?|10209|20985:1-51
 # PriPara -> ~ 3rd Season
 - ?|8555|20742:90-140 -> ?|12683|21559:1-51
+
+# Pokemon -> ~ Advanced Generation
+- 527|486|527:277-468 -> 1564|1404|1564:1-192
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
@@ -912,11 +981,19 @@
 # Shingeki no Kyojin OVA -> Shingeki no Kyojin: Lost Girls
 - 18397|7694|18397:6-8 -> 36106|13718|99634:1-3
 
+# Shinigami Bocchan to Kuro Maid -> ~ 2nd Season
+- 47257|44035|129277:13-24 -> 49858|45229|139435:1-12!
+# Shinigami Bocchan to Kuro Maid -> ~ 3rd Season
+- 47257|44035|129277:25-? -> 56738|47984|169584:1-?!
+
 # Shokugeki no Souma: San no Sara -> ~ - Toutsuki Ressha-hen
 - 35788|13581|99255:13-24 -> 36949|14092|100773:1-12!
 
 # Shugo Chara! -> ~! Doki
 - 2923|2648|2923:52-102 -> 5262|4019|5262:1-51!
+
+# Shuumatsu no Valkyrie II -> ~ Part 2
+- 49618|44988|138056:11-15 -> 55454|47495|165356:1-5!
 
 # So Ra No Wo To -> ~ Specials
 - 6802|7668|6802:13 -> 8197|4724|8197:2
@@ -927,6 +1004,8 @@
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322|21873:13 -> 34538|13004|98843:1
 
+# Souten no Ken -> ~ Specials
+- 1541|1382|1541:23-26 -> 3864|3308|3864:1-4
 # Souten no Ken: REGENESIS -> ~ 2
 - 36655|13983|100408:13-24 -> 37388|41953|102860:1-12!
 
@@ -938,11 +1017,19 @@
 # Spider Riders: Oracle no Yuusha-tachi -> Spider Riders: Yomigaeru Taiyou
 - 2619|2383|2619:27-52 -> 2620|2384|2620:1-26
 
+# Spy Kyoushitsu -> ~ 2nd Season
+- 51252|45966|146323:13-24 -> 54947|47288|163542:1-12!
+
 # Spy x Family -> ~ Part 2
 - 50265|45398|140960:13-25 -> 50602|45619|142838:1-13!
+# Spy x Family -> ~ Season 2
+- 50265|45398|140960:26-37 -> 53887|46873|158927:1-12!
 
 # Steins;Gate 0 -> ~ Special
 - 30484|10788|21127:24 -> 37492|41443|104174:1
+
+# Sugar Apple Fairy Tale -> ~ Part 2
+- 49980|45270|139821:13-24 -> 54842|47231|163079:1-12!
 
 # Suisei no Gargantia -> ~ Specials
 - 16524|7449|16524:14-15 -> 19211|7872|19211:1-2
@@ -954,6 +1041,9 @@
 
 # Sword Art Online: Alicization - War of Underworld -> ~ 2nd Season
 - 39597|42213|108759:13-23 -> 40540|42927|114308:1-11!
+
+# Synduality: Noir -> ~ Part 2
+- 53026|46477|154643:13-24 -> 56731|47999|169559:1-12!
 
 # Tales of Zestiria the X -> ~: Saiyaku no Jidai
 - 30911|11023|?:0 -> 33558|12283|?:1
@@ -1001,6 +1091,8 @@
 - 37430|41024|101280:25-36 -> 39551|42196|108511:1-12!
 # Tensei shitara Slime Datta Ken -> ~ 2nd Season Part 2
 - 37430|41024|101280:37-48 -> 41487|43361|116742:1-12!
+# Tensei shitara Slime Datta Ken -> ~ 3rd Season
+- 37430|41024|101280:49-72 -> 53580|46729|156822:1-24!
 # Tensei shitara Slime Datta Ken 2nd Season -> ~ Part 2
 - 39551|42196|108511:13-24 -> 41487|43361|116742:1-12!
 
@@ -1026,6 +1118,9 @@
 
 # Tokyo Majin Gakuen Kenpucho: Tou -> ~ Dai Ni Maku
 - 1860|1677|1860:15-26 -> 2683|2445|2683:1-12!
+
+# Tokyo Mew Mew New ♡ -> ~ 2nd Season
+- 41589|43098|117196:13-24 -> 53097|46521|154876:1-12!
 
 # Towa no Quon 1 -> ~ 2,3,4,5,6
 - 10294|6116|10294:2 -> 10713|6310|10713:1
@@ -1057,6 +1152,9 @@
 # Urawa no Usagi-chan -> ~ Special
 - 27927|9949|20949:13 -> 31426|11345|21433:1
 
+# Urusei Yatsura (2022) -> ~ 2nd Season
+- 50710|45694|143277:24-46 -> 54829|46620|155645:1-23!
+
 # Ushio to Tora (TV) -> ~ 2nd Season
 - 29854|10359|21038:27-39 -> 31098|11126|21241:1-13!
 
@@ -1074,6 +1172,9 @@
 
 # Watashi ni Tenshi ga Maiorita! -> ~ Special
 - 37993|41403|102680:13 -> 38999|42141|107138:1
+
+# Watashi no Shiawase na Kekkon -> ~: Watashi no Shiawase na Katachi
+- 51552|46050|147103:13 -> 55889|47800|167486:1
 
 # White Album -> ~ 2nd Season
 - 4720|3760|4720:14-26 -> 6165|4455|6165:1-13!
