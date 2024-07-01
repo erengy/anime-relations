@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-04-09
+- last_modified: 2024-07-01
 
 ::rules
 
@@ -997,6 +997,9 @@
 
 # Shuumatsu no Valkyrie II -> ~ Part 2
 - 49618|44988|138056:11-15 -> 55454|47495|165356:1-5!
+
+# SHY -> ~ 2nd Season
+- 53237|46589|155389:13-24 -> 57567|48328|171748:1-12!
 
 # So Ra No Wo To -> ~ Specials
 - 6802|7668|6802:13 -> 8197|4724|8197:2
