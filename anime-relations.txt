@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-04-09
+- last_modified: 2024-07-04
 
 ::rules
 
@@ -830,6 +830,9 @@
 
 # Osake wa Fuufu ni Natte kara -> ~ Episode 14
 - 35484|13719|98657:14 -> 37826|41271|104530:1
+
+# "Oshi no Ko" -> ~ 2nd Season
+- 52034|46170|150672:12-24 -> 55791|47659|166531:1-13!
 
 # Owari no Seraph -> ~: Nagoya Kessen-hen
 - 26243|8736|20829:13-24 -> 28927|10082|20993:1-12!
