@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-04-09
+- last_modified: 2024-07-05
 
 ::rules
 
@@ -781,6 +781,9 @@
 
 # Nichijou -> ~: Nichijou no 0-wa
 - 10165|6062|10165:0 -> 8857|5512|8857:1
+
+# NieR Automata Ver1.1a -> ~ 2nd Season
+- 51105|45926|145665:13-24 -> 56063|47784|167420:1-12!
 
 # No Guns Life -> ~ 2nd Season
 - 39539|42197|108478:13-24 -> 40529|42880|112803:1-12!
