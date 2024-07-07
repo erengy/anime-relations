@@ -1170,11 +1170,11 @@
 # ViVid Strike! -> ~ Specials
 - 33589|12304|21871:13 -> 34812|13344|98220:3
 
-# Wang Sheng Jie -> ~ 2
+# Wan Sheng Jie -> ~ 2
 - 41611|43184|114555:13-24 -> 42640|43614|122497:1-12!
-# Wang Sheng Jie -> ~ 3
+# Wan Sheng Jie -> ~ 3
 - 41611|43184|114555:25-36 -> 49587|44980|137740:1-12!
-# Wang Sheng Jie -> ~ 4
+# Wan Sheng Jie -> ~ 4
 - 41611|43184|114555:37-48 -> 53859|46867|158830:1-12!
 
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! -> ~ OVA
