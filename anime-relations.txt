@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-07-05
+- last_modified: 2024-07-17
 
 ::rules
 
@@ -953,6 +953,9 @@
 
 # Sengoku Choujuu Giga: Kou -> Sengoku Choujuu Giga: Otsu
 - 33803|12492|21895:14-26 -> 34738|13186|116053:1-13!
+
+# Sengoku Youko: Yonaoshi Kyoudai-hen -> Sengoku Youko: Senma Konton-hen
+- 56242|47891|168194:14-36 -> 58488|48690|176660:1-22
 
 # Senyuu. -> ~ 2
 - 15751|7303|15751:14-26 -> 18523|7719|18523:1-13!
