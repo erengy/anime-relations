@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-07-17
+- last_modified: 2024-09-30
 
 ::rules
 
@@ -1106,6 +1106,9 @@
 
 # Tenjou Tenge -> ~: The Ultimate Fight
 - 174|151|174:25-26 -> 448|411|448:1-2
+
+# Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 2nd Season
+- 55265|47481|164702:13-24 -> 59131|48979|178434:1-12!
 
 # Tensei shitara Slime Datta Ken -> ~ 2nd Season
 - 37430|41024|101280:25-36 -> 39551|42196|108511:1-12!
