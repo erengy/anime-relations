@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-10-02
+- last_modified: 2024-10-04
 
 ::rules
 
@@ -908,6 +908,9 @@
 
 # Rurouni Kenshin: Meiji Kenkaku Romantan -> ~ Special
 - 45|27|45:95 -> 12067|6659|12067:1
+
+# Rurouni Kenshin: Meiji Kenkaku Romantan (2023) -> ~ Kyoto Douran 
+- 50613|45616|142877:25-47 -> 57554|48393|171637:1-23!
 
 # Saenai Heroine no Sodatekata -> ~: Ai to Seishun no Service Kai
 - 23277|8406|?:0 -> 29317|10225|?:1
