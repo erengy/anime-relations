@@ -508,6 +508,9 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 3rd Season
 - 39468|42241|108268:27-36 -> 42429|43607|121176:1-10!
 
+# Houkago Shounen Hanako-kun -> ~ Part 2
+- 56425|159074|47887:5-8 -> 57102|170893|48212:1-4
+
 # Hourou Musuko -> ~
 - 8426|5331|8426:12 -> ~|~|~:11
 
