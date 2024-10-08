@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-10-06
+- last_modified: 2024-10-07
 
 ::rules
 
@@ -575,6 +575,9 @@
 
 # Kakumeiki Valvrave -> ~ 2nd Season
 - 16668|7487|16668:13-24 -> 18295|7698|18295:1-12!
+
+# Kami no Tou: Ouji no Kikan -> Kami no Tou: Koubou-sen
+- 52635|46312|?:14-26 -> 59989|49244|?:1-13!
 
 # Kamichu! -> ~ Specials
 - 489|7763|489:13-16 -> 3449|450|3449:1-4
