@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-10-08
+- last_modified: 2024-10-09
 
 ::rules
 
@@ -519,6 +519,11 @@
 
 # Hourou Musuko -> ~
 - 8426|5331|8426:12 -> ~|~|~:11
+
+# Hyakushou Kizoku -> ~ Specials
+- 53426|46667|155971:13-14 -> 56743|48933|169511:1-2
+# Hyakushou Kizoku -> ~ 2nd Season
+- 53426|46667|155971:15-26 -> 57562|48336|171689:1-12!
 
 # IGPX: Immortal Grand Prix (2005) -> ~ 2nd Season
 - 3270|2896|3270:14-26 -> 1410|1263|1410:1-13!
