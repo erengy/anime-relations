@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-10-04
+- last_modified: 2024-10-07
 
 ::rules
 
@@ -149,6 +149,11 @@
 
 # Bleach: Sennen Kessen-hen -> ~ - Ketsubetsu-tan
 - 41467|43078|116674:14-26 -> 53998|46903|159322:1-13!
+# Bleach: Sennen Kessen-hen -> ~ - Soukoku-tan
+- 41467|43078|116674:27-? -> 56784|48015|169755:1-?!
+
+# Blue Lock -> ~ vs. U-20 Japan
+- 49596|44973|137822:25-38 -> 54865|47245|163146:1-14!
 
 # Boku no Hero Academia -> ~ 2nd Season
 - 31964|11469|21459:14-38 -> 33486|12268|21856:1-25
@@ -329,6 +334,9 @@
 # Edens Zero -> ~ 2nd Season
 - 42192|43521|119683:26-? -> 50002|45847|144932:1-?!
 
+# Elf-san wa Yaserarenai. -> ~ Specials
+- 57845|48423|173388:13-14 -> 59820|49034|179126:1-2!
+
 # Fairy Gone -> ~ 2nd Season
 - 39063|42130|107418:13-24 -> 39811|42358|109562:1-12!
 
@@ -506,6 +514,9 @@
 # Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen -> ~ 3rd Season
 - 39468|42241|108268:27-36 -> 42429|43607|121176:1-10!
 
+# Houkago Shounen Hanako-kun -> ~ Part 2
+- 56425|47887|159074:5-8 -> 57102|48212|170893:1-4
+
 # Hourou Musuko -> ~
 - 8426|5331|8426:12 -> ~|~|~:11
 
@@ -567,6 +578,9 @@
 
 # Kakumeiki Valvrave -> ~ 2nd Season
 - 16668|7487|16668:13-24 -> 18295|7698|18295:1-12!
+
+# Kami no Tou: Ouji no Kikan -> Kami no Tou: Koubou-sen
+- 52635|46312|?:14-26 -> 59989|49244|?:1-13!
 
 # Kamichu! -> ~ Specials
 - 489|7763|489:13-16 -> 3449|450|3449:1-4
