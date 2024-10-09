@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-10-07
+- last_modified: 2024-10-08
 
 ::rules
 
@@ -587,6 +587,9 @@
 
 # Kamisama no Inai Nichiyoubi -> ~ Special
 - 16009|7358|16009:13 -> 20423|7989|20423:1
+
+# Kamonohashi Ron no Kindan Suiri -> ~ 2nd Season
+- 53879|46876|158926:14-26 -> 57635|48399|172355:1-13!
 
 # Kämpfer -> ~ für die Liebe
 - 6205|4474|6205:13-14 -> 10076|6023|10076:1-2!
