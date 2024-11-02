@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2024-10-15
+- last_modified: 2024-11-02
 
 ::rules
 
@@ -849,6 +849,9 @@
 
 # Onee-chan ga Kita -> ~ Special
 - 20931|8083|20473:13 -> 23427|8343|20682:1
+
+# Ooi! Tonbo -> ~ 2nd Season
+- 55194|47427|164440:14-26 -> 59175|49013|178729:1-13!
 
 # Ookami to Koushinryou II -> ~: Ookami to Kohakuiro no Yuuutsu
 - 5341|4063|5341:0 -> 6007|4382|6007:1
