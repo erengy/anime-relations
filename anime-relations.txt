@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-01-10
+- last_modified: 2025-01-13
 
 ::rules
 
@@ -623,6 +623,9 @@
 
 # Kidou Senshi Gundam: Suisei no Majo -> ~ Season 2
 - 49828|45217|139274:13-24 -> 53199|46561|155158:1-12!
+
+# Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo -> ~ 2nd Season
+- 54714|47179|162694:13-? -> 57616|48348|172258:1-12!
 
 # Kimi ni Todoke 2nd Season -> ~: Kataomoi
 - 9656|5820|9656:0 -> 10152|6055|10152:1
