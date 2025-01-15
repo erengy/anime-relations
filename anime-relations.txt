@@ -1280,6 +1280,12 @@
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712|798:13 -> 1843|1660|1843:1
 
+# Yoru wa Neko to Issho -> 2nd Season
+- 51692|46090|148042:31-61 -> 54198|46974|160088:1-30!
+
+# Yoru wa Neko to Issho -> 3nd Season
+- 51692|46090|148042:61-? -> 58199|48567|175137:1-?
+
 # Youjo Senki Movie -> ~
 - 37055|14173|100878:0 -> ~|~|~:1
 
