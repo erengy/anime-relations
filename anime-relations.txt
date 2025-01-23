@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-01-16
+- last_modified: 2025-01-23
 
 ::rules
 
@@ -150,7 +150,7 @@
 # Bleach: Sennen Kessen-hen -> ~ - Ketsubetsu-tan
 - 41467|43078|116674:14-26 -> 53998|46903|159322:1-13!
 # Bleach: Sennen Kessen-hen -> ~ - Soukoku-tan
-- 41467|43078|116674:27-? -> 56784|48015|169755:1-?!
+- 41467|43078|116674:27-40 -> 56784|48015|169755:1-14!
 
 # Blue Lock -> ~ vs. U-20 Japan
 - 49596|44973|137822:25-38 -> 54865|47245|163146:1-14!
