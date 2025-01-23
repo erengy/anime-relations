@@ -627,6 +627,9 @@
 # Kimi ni Todoke 2nd Season -> ~: Kataomoi
 - 9656|5820|9656:0 -> 10152|6055|10152:1
 
+# Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo -> ~ 2nd Season
+- 54714|47179|162694:13-? -> 57616|48348|172258:1-?!
+
 # Kindaichi Shounen no Jikenbo Returns -> ~ 2nd Season
 - 22817|8310|20642:26-47 -> 31227|11211|21286:1-22!
 
@@ -1280,10 +1283,9 @@
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712|798:13 -> 1843|1660|1843:1
 
-# Yoru wa Neko to Issho -> 2nd Season
+# Yoru wa Neko to Issho -> ~ Season 2
 - 51692|46090|148042:31-60 -> 54198|46974|160088:1-30!
-
-# Yoru wa Neko to Issho -> 3nd Season
+# Yoru wa Neko to Issho -> ~ Season 3
 - 51692|46090|148042:61-? -> 58199|48567|175137:1-?
 
 # Youjo Senki Movie -> ~
