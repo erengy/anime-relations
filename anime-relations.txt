@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-01-10
+- last_modified: 2025-01-13
 
 ::rules
 
@@ -626,6 +626,9 @@
 
 # Kimi ni Todoke 2nd Season -> ~: Kataomoi
 - 9656|5820|9656:0 -> 10152|6055|10152:1
+
+# Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo -> ~ 2nd Season
+- 54714|47179|162694:13-? -> 57616|48348|172258:1-?!
 
 # Kindaichi Shounen no Jikenbo Returns -> ~ 2nd Season
 - 22817|8310|20642:26-47 -> 31227|11211|21286:1-22!
