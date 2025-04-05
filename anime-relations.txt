@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-04-03
+- last_modified: 2025-04-05
 
 ::rules
 
@@ -202,6 +202,9 @@
 
 # Busou Shoujo Machiavellianism -> ~: Doki! "Goken-darake" no Ian Ryokou
 - 33475|12265|21851:13 -> 35314|14261|98856:1
+
+# Bye Bye, Earth -> ~ 2nd Season
+- 53626|46764|157371:11-20 -> 59819|49198|181078:1-10!
 
 # C³ -> ~ Special
 - 10578|6249|10578:13 -> 12505|6751|12505:1
