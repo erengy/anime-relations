@@ -917,6 +917,8 @@
 
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
+# Re:Zero kara Hajimeru Break Time 2nd Season -> ~ Part 2
+- ?|?|120700:14-25 -> ?|?|128306:1-12!
 
 # Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 2nd Season
 - 31240|11209|21355:26-38 -> 39587|42198|108632:1-13!
@@ -1253,6 +1255,8 @@
 
 # Watashi no Shiawase na Kekkon -> ~: Watashi no Shiawase na Katachi
 - 51552|46050|147103:13 -> 55889|47800|167486:1
+# Watashi no Shiawase na Kekkon -> ~ 2nd Season
+- 51552|46050|147103:14-26 -> 56701|47969|169441:1-13
 
 # White Album -> ~ 2nd Season
 - 4720|3760|4720:14-26 -> 6165|4455|6165:1-13!
