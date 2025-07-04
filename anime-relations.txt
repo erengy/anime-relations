@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-06-14
+- last_modified: 2025-07-04
 
 ::rules
 
@@ -110,6 +110,9 @@
 
 # Arknights: Reimei Zensou -> Arknights: Fuyukomori Kaerimichi
 - 50205|45367|140660:9-16 -> 53881|46880|158895:1-8!
+
+# Arknights: Rise from Ember -> ~
+- 58749|48796|177175:17-26 -> ~|~|~:1-10
 
 # Baccano! -> ~ Specials
 - 2251|2039|2251:14-16 -> 3901|3334|3901:1-3
