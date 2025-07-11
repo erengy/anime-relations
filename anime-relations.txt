@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-07-04
+- last_modified: 2025-07-11
 
 ::rules
 
@@ -319,6 +319,9 @@
 
 # Dr. Stone New World -> ~ Part 2
 - 48549|44289|131518:12-22 -> 55644|47246|162670:1-11!
+
+# Dr. Stone: Science Future -> ~ Part 2
+- 57592|48342|172019:13-24 -> 61322|49751|189117:1-12!
 
 # Dragon Ball Kai -> ~: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 - 6033|4394|6033:98 -> 11359|6500|11359:1
