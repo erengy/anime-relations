@@ -1083,6 +1083,9 @@
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322|21873:13 -> 34538|13004|98843:1
 
+# Sousou no Frieren: ●● no Mahou -> ~ Part 2
+- ?|?|170068:13-18 -> ?|?|189513:1-6!
+
 # Souten no Ken -> ~ Specials
 - 1541|1382|1541:23-26 -> 3864|3308|3864:1-4
 # Souten no Ken: REGENESIS -> ~ 2
