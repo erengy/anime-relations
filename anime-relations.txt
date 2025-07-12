@@ -1077,7 +1077,7 @@
 # SHY -> ~ 2nd Season
 - 53237|46589|155389:13-24 -> 57567|48328|171748:1-12!
 
-Sono Bisque Doll wa Koi wo Suru -> ~ 2nd Season
+# Sono Bisque Doll wa Koi wo Suru -> ~ 2nd Season
 - 48736|44382|132405:13-24 -> 53065|46492|154768:1-12!
 
 # So Ra No Wo To -> ~ Specials
