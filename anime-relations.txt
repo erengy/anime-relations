@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-07-04
+- last_modified: 2025-07-06
 
 ::rules
 
@@ -553,6 +553,9 @@
 
 # Jashin-chan Dropkick -> ~ ONA
 - 36906|41165|100714:12 -> 38383|41970|104278:1
+
+# Jibaku Shounen Hanako-kun 2 -> ~ Part 2
+- 53924|46924|170892:13-? -> 61339|49776|189326:1-?!
 
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
 - 20899|8063|20474:25-48 -> 26055|8739|20799:1-24!
@@ -1073,6 +1076,9 @@
 
 # SHY -> ~ 2nd Season
 - 53237|46589|155389:13-24 -> 57567|48328|171748:1-12!
+
+# Sono Bisque Doll wa Koi wo Suru -> ~ 2nd Season
+- 48736|44382|132405:13-24 -> 53065|46492|154768:1-12!
 
 # So Ra No Wo To -> ~ Specials
 - 6802|7668|6802:13 -> 8197|4724|8197:2
