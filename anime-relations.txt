@@ -932,6 +932,9 @@
 # Pokemon -> ~ Advanced Generation
 - 527|486|527:277-468 -> 1564|1404|1564:1-192
 
+# Puniru wa Kawaii Slime -> ~ 2nd Season
+- 57517|49234|171400:13-24 -> 60603|49436|185755:1-12!
+
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
 # Re:Zero kara Hajimeru Break Time 2nd Season -> ~ Part 2
