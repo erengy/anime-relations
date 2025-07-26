@@ -935,6 +935,9 @@
 # Pokemon -> ~ Advanced Generation
 - 527|486|527:277-468 -> 1564|1404|1564:1-192
 
+# Puniru wa Kawaii Slime -> ~ 2nd Season
+- 57517|49234|171400:13-24 -> 60603|49436|185755:1-12!
+
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
 # Re:Zero kara Hajimeru Break Time 2nd Season -> ~ Part 2
@@ -978,6 +981,9 @@
 
 # Saint Seiya: The Lost Canvas - Meiou Shinwa -> ~ 2
 - 6171|4458|6171:14-26 -> 9130|5612|9130:1-13
+
+# Sakamoto Days -> ~ Part 2
+- 58939|48915|177709:12-22 -> 60285|49332|184237:1-11!
 
 # Sakamoto desu ga? -> ~ Special
 - 32542|11751|21595:13 -> 33524|12278|21862:1
