@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2025-07-04
+- last_modified: 2025-07-26
 
 ::rules
 
@@ -110,6 +110,9 @@
 
 # Arknights: Reimei Zensou -> Arknights: Fuyukomori Kaerimichi
 - 50205|45367|140660:9-16 -> 53881|46880|158895:1-8!
+
+# Arknights: Rise from Ember -> ~
+- 58749|48796|177175:17-26 -> ~|~|~:1-10
 
 # Baccano! -> ~ Specials
 - 2251|2039|2251:14-16 -> 3901|3334|3901:1-3
@@ -316,6 +319,9 @@
 
 # Dr. Stone New World -> ~ Part 2
 - 48549|44289|131518:12-22 -> 55644|47246|162670:1-11!
+
+# Dr. Stone: Science Future -> ~ Part 2
+- 57592|48342|172019:13-? -> 61322|49751|189117:1-?!
 
 # Dragon Ball Kai -> ~: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 - 6033|4394|6033:98 -> 11359|6500|11359:1
@@ -551,6 +557,9 @@
 # Jashin-chan Dropkick -> ~ ONA
 - 36906|41165|100714:12 -> 38383|41970|104278:1
 
+# Jibaku Shounen Hanako-kun 2 -> ~ Part 2
+- 53924|46924|170892:13-? -> 61339|49776|189326:1-?!
+
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
 - 20899|8063|20474:25-48 -> 26055|8739|20799:1-24!
 
@@ -579,6 +588,9 @@
 
 # Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai -> ~
 - 52198|46206|?:1-4 -> ~|~|?:1
+
+# Kaijuu 8-gou -> ~ 2nd Season
+- 52588|46300|153288:13-23 -> 59177|48994|178754:1-11!
 
 # Kaitou Joker -> ~ 2nd Season
 - 24909|8664|20818:14-26 -> 28869|10070|21004:1-13!
@@ -619,7 +631,7 @@
 # Kanojo, Okarishimasu -> ~ 3rd Season
 - 40839|43028|113813:25-36 -> 53050|46489|154745:1-12!
 # Kanojo, Okarishimasu -> ~ 4th Season
-- 40839|43028|113813:37-60 -> 59277|49033|179344:1-?!
+- 40839|43028|113813:37-48 -> 59277|49033|179344:1-12!
 
 # Kara no Kyoukai 1 -> ~ 2,3,4,5,6,7
 - 2593|2357|2593:2 -> 3782|3248|3782:1
@@ -636,7 +648,7 @@
 - 9656|5820|9656:0 -> 10152|6055|10152:1
 
 # Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo -> ~ 2nd Season
-- 54714|47179|162694:13-? -> 57616|48348|172258:1-?!
+- 54714|47179|162694:13-24 -> 57616|48348|172258:1-12!
 
 # Kindaichi Shounen no Jikenbo Returns -> ~ 2nd Season
 - 22817|8310|20642:26-47 -> 31227|11211|21286:1-22!
@@ -923,6 +935,9 @@
 # Pokemon -> ~ Advanced Generation
 - 527|486|527:277-468 -> 1564|1404|1564:1-192
 
+# Puniru wa Kawaii Slime -> ~ 2nd Season
+- 57517|49234|171400:13-24 -> 60603|49436|185755:1-12!
+
 # Re:Zero kara Hajimeru Break Time -> Re:Petit kara Hajimeru Isekai Seikatsu
 - 33142|12047|21780:12-25 -> 33569|12313|21891:1-14
 # Re:Zero kara Hajimeru Break Time 2nd Season -> ~ Part 2
@@ -966,6 +981,9 @@
 
 # Saint Seiya: The Lost Canvas - Meiou Shinwa -> ~ 2
 - 6171|4458|6171:14-26 -> 9130|5612|9130:1-13
+
+# Sakamoto Days -> ~ Part 2
+- 58939|48915|177709:12-22 -> 60285|49332|184237:1-11!
 
 # Sakamoto desu ga? -> ~ Special
 - 32542|11751|21595:13 -> 33524|12278|21862:1
@@ -1073,6 +1091,9 @@
 # SHY -> ~ 2nd Season
 - 53237|46589|155389:13-24 -> 57567|48328|171748:1-12!
 
+# Sono Bisque Doll wa Koi wo Suru -> ~ 2nd Season
+- 48736|44382|132405:13-24 -> 53065|46492|154768:1-12!
+
 # So Ra No Wo To -> ~ Specials
 - 6802|7668|6802:13 -> 8197|4724|8197:2
 
@@ -1081,6 +1102,9 @@
 
 # Soushin Shoujo Matoi -> ~ Special
 - 33668|12322|21873:13 -> 34538|13004|98843:1
+
+# Sousou no Frieren: ●● no Mahou -> ~ Part 2
+- ?|?|170068:13-18 -> ?|?|189513:1-6!
 
 # Souten no Ken -> ~ Specials
 - 1541|1382|1541:23-26 -> 3864|3308|3864:1-4
@@ -1167,6 +1191,9 @@
 
 # Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 2nd Season
 - 55265|47481|164702:13-24 -> 59131|48979|178434:1-12!
+
+# Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu -> ~ 2nd Season
+- 53516|46704|156415:13-? -> 59095|48968|178090:1-?!
 
 # Tensei shitara Slime Datta Ken -> ~ 2nd Season
 - 37430|41024|101280:25-36 -> 39551|42196|108511:1-12!
