@@ -1299,6 +1299,9 @@
 # Wan Sheng Jie -> ~ 4
 - 41611|43184|114555:37-48 -> 53859|46867|158830:1-12!
 
+# Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) -> ~ Next Shine
+- 60326|49358|184591:13-17 -> 62543|50180|199112:1-5!
+
 # Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! -> ~ OVA
 - 16742|7504|16742:13 -> 20449|7991|20453:1
 
