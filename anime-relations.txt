@@ -566,7 +566,7 @@
 # Jibaku Shounen Hanako-kun 2 -> ~ Part 2
 - 53924|46924|170892:13-24 -> 61339|49776|189326:1-12!
 
-# Jigoku Sensei Nube (2025)-> ~ Part 2
+# Jigoku Sensei Nube (2025) -> ~ Part 2
 - 59342|49070|179678:14-? -> 61608|50433|191967:1-?!
 
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
