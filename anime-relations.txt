@@ -792,8 +792,9 @@
 # Megaton-kyuu Musashi -> ~ 2nd Season
 - 33737|12509|87502:14-28 -> 50559|45580|142541:1-15!
 
-# MF Ghost -> ~ 2nd Season
+# MF Ghost -> ~ 2nd Season, 3rd Season
 - 50695|45713|143327:13-24 -> 57559|48337|171642:1-12!
+- 50695|45713|143327:25-37 -> 60602|49441|185753:1-13!
 
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206|21268:26-50 -> 33051|12005|21749:1-25!
