@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-01-09
+- last_modified: 2026-01-10
 
 ::rules
 
@@ -565,6 +565,9 @@
 
 # Jibaku Shounen Hanako-kun 2 -> ~ Part 2
 - 53924|46924|170892:13-24 -> 61339|49776|189326:1-12!
+
+# Jigoku Sensei Nube (2025) -> ~ Part 2
+- 59342|49070|179678:14-? -> 61608|50433|191967:1-?!
 
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
 - 20899|8063|20474:25-48 -> 26055|8739|20799:1-24!
