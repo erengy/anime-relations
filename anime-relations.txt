@@ -448,7 +448,7 @@
 - 36028|13689|99699:25-36 -> 40059|42435|110355:1-12!
 # Golden Kamuy -> ~ 4
 - 36028|13689|99699:37-49 -> 50528|45556|142343:1-13!
-# Golden Kamuy -> ~ 5
+# Golden Kamuy -> Golden Kamuy: Saishuushou
 - 36028|13689|99699:50-62 -> 55772|47655|166521:1-13!
 
 # Grappler Baki (TV) -> ~: Saidai Tournament-hen
@@ -568,6 +568,9 @@
 # Jibaku Shounen Hanako-kun 2 -> ~ Part 2
 - 53924|46924|170892:13-24 -> 61339|49776|189326:1-12!
 
+# Jigoku Sensei Nube (2025) -> ~ Part 2
+- 59342|49070|179678:14-? -> 61608|50433|191967:1-?!
+
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
 - 20899|8063|20474:25-48 -> 26055|8739|20799:1-24!
 
@@ -582,6 +585,8 @@
 
 # Jujutsu Kaisen -> ~ 2nd Season
 - 40748|42765|113415:25-47 -> 51009|45857|145064:1-23!
+# Jujutsu Kaisen -> ~: Shimetsu Kaiyuu - Zenpen
+- 40748|42765|113415:48-59 -> 57658|48363|172463:1-12!
 
 # K-On! -> ~: Live House!
 - 5680|4240|5680:14 -> 6862|4758|6862:1
@@ -792,8 +797,9 @@
 # Megaton-kyuu Musashi -> ~ 2nd Season
 - 33737|12509|87502:14-28 -> 50559|45580|142541:1-15!
 
-# MF Ghost -> ~ 2nd Season
+# MF Ghost -> ~ 2nd Season, 3rd Season
 - 50695|45713|143327:13-24 -> 57559|48337|171642:1-12!
+- 50695|45713|143327:25-37 -> 60602|49441|185753:1-13!
 
 # Mobile Suit Gundam: Iron-Blooded Orphans -> ~ 2nd Season
 - 31251|11206|21268:26-50 -> 33051|12005|21749:1-25!
@@ -1252,6 +1258,9 @@
 
 # Towa no Yuugure -> ~: Asa wo Kokoro ni, Ichi, Ni to Kazoe yo
 - 61917|50008|?:0 -> 62359|50190|?:1
+
+# Trigun Stampede -> Trigun Stargaze
+- 52093|46183|151040:13-24 -> 54863|47243|163144:1-12!
 
 # Trinity Seven -> ~ OVA
 - 25157|8607|20631:13 -> 28285|10014|21064:1
