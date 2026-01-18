@@ -448,7 +448,7 @@
 - 36028|13689|99699:25-36 -> 40059|42435|110355:1-12!
 # Golden Kamuy -> ~ 4
 - 36028|13689|99699:37-49 -> 50528|45556|142343:1-13!
-# Golden Kamuy -> Golden Kamuy: Saishuushou
+# Golden Kamuy -> ~: Saishuushou
 - 36028|13689|99699:50-62 -> 55772|47655|166521:1-13!
 
 # Grappler Baki (TV) -> ~: Saidai Tournament-hen
@@ -571,7 +571,7 @@
 # Jigoku Sensei Nube (2025) -> ~ Part 2
 - 59342|49070|179678:14-? -> 61608|50433|191967:1-?!
 
-# Jigokuraku -> ~ S2
+# Jigokuraku -> ~ 2nd Season
 - 46569|44012|128893:14-25 -> 55825|47679|166613:1-12!
 
 # JoJo's Bizarre Adventure: Stardust Crusaders -> ~ 2nd Season
