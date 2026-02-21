@@ -608,6 +608,9 @@
 # Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai -> ~
 - 52198|46206|?:1-4 -> ~|~|?:1
 
+# Kaguya-sama wa Kokurasetai: Otona e no Kaidan -> ~
+- 61903|?|?:1-2 -> ~|?|?:1
+
 # Kaijuu 8-gou -> ~ 2nd Season
 - 52588|46300|153288:13-23 -> 59177|48994|178754:1-11!
 
