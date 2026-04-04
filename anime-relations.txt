@@ -325,6 +325,9 @@
 # Dr. Stone: Science Future -> ~ Part 2
 - 57592|48342|172019:13-24 -> 61322|49751|189117:1-12!
 
+# Dr. Stone: Science Future -> ~ Part 3
+- 57592|48342|172019:25-? -> 62568|50187|199221:1-?!
+
 # Dragon Ball Kai -> ~: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 - 6033|4394|6033:98 -> 11359|6500|11359:1
 # Dragon Ball Kai -> ~ (2014)
