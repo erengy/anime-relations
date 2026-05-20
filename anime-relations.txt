@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-05-15
+- last_modified: 2026-05-20
 
 ::rules
 
@@ -324,9 +324,8 @@
 
 # Dr. Stone: Science Future -> ~ Part 2
 - 57592|48342|172019:13-24 -> 61322|49751|189117:1-12!
-
 # Dr. Stone: Science Future -> ~ Part 3
-- 57592|48342|172019:25-37 -> 62568|50187|199221:1-13!
+- 57592|48342|172019:25-? -> 62568|50187|199221:1-?!
 
 # Dragon Ball Kai -> ~: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni
 - 6033|4394|6033:98 -> 11359|6500|11359:1
@@ -350,6 +349,9 @@
 
 # Edens Zero -> ~ 2nd Season
 - 42192|43521|119683:26-50 -> 50002|45847|144932:1-25!
+
+# Enen no Shouboutai: San no Shou -> ~ Part 2 
+- 51818|149118|46119:13-25 -> 59229|49016|179062:1-13!
 
 # Elf-san wa Yaserarenai. -> ~ Specials
 - 57845|48423|173388:13-14 -> 59820|49034|179126:1-2!
@@ -1216,6 +1218,9 @@
 
 # Tenjou Tenge -> ~: The Ultimate Fight
 - 174|151|174:25-26 -> 448|411|448:1-2
+
+# Tensei Akujo no Kuro Rekishi -> ~ OVA
+- 58146|48546|174914:13 -> 63266|50578|205054:1
 
 # Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 2nd Season
 - 55265|47481|164702:13-24 -> 59131|48979|178434:1-12!
