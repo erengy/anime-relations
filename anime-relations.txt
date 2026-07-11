@@ -1027,6 +1027,9 @@
 # Satsuriku no Tenshi -> ~ ONA
 - ?|13715|99629:13-16 -> ?|41963|104243:1-4
 
+# Seihantai na Kimi to Boku -> ~ 2nd Season
+- 60371|184951|49372:13-25 -> 63832|210031|50634:1-13
+
 # Seikaisuru Kado -> ~ Episode 0
 - 32032|11490|?:0 -> 35369|13323|?:1
 
