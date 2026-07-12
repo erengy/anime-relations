@@ -674,6 +674,8 @@
 
 # Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo -> ~ 2nd Season
 - 54714|47179|162694:13-24 -> 57616|48348|172258:1-12!
+# Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo -> ~ 3rd Season
+- 54714|47179|162694:25-36 -> 62811|50272|200637:1-12!
 
 # Kindaichi Shounen no Jikenbo Returns -> ~ 2nd Season
 - 22817|8310|20642:26-47 -> 31227|11211|21286:1-22!
