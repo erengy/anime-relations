@@ -1,0 +1,18 @@
+name: Update Last Modified Date
+on:
+  push:
+    branches: ['master']
+jobs:
+  generate-lists:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Replace last_modified line
+        run: |
+          sed -i -r -e "s/^- last_modified: [-0-9]{10}$/- last_modified: $(date '+%Y-%m-%d')/" anime-relations.txt
+      - uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Update `last_modified`
+          commit_author: Github Actions <actions@github.com>
