@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-04-03
+- last_modified: 2026-04-08
 
 ::rules
 
@@ -982,6 +982,8 @@
 - 39587|42198|108632:14-25 -> 42203|43247|119661:1-12!
 # Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 3rd Season
 - 31240|11209|21355:51-66 -> 54857|47235|163134:1-16!
+# Re:Zero kara Hajimeru Isekai Seikatsu -> ~ 4th Season
+- 31240|11209|21355:67-85 -> 61316|49746|189046:1-19!
 
 # Recorder to Randoseru Do♪ -> Recorder to Randoseru Re♪
 - 11491|6519|11491:14-26 -> 13377|6951|13377:1-13!
