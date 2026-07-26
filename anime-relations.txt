@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-04-08
+- last_modified: 2026-05-20
 
 ::rules
 
@@ -1228,6 +1228,9 @@
 
 # Tenjou Tenge -> ~: The Ultimate Fight
 - 174|151|174:25-26 -> 448|411|448:1-2
+
+# Tensei Akujo no Kuro Rekishi -> ~ OVA
+- 58146|48546|174914:13 -> 63266|50578|205054:1
 
 # Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 2nd Season
 - 55265|47481|164702:13-24 -> 59131|48979|178434:1-12!
