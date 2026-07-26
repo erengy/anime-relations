@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-07-12
+- last_modified: 2026-07-26
 
 ::rules
 
@@ -1392,6 +1392,9 @@
 
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712|798:13 -> 1843|1660|1843:1
+
+# Yoroi Shin Den Samurai Troopers -> ~ Part 2
+- 61830|50427|194318:13-24 -> 63047|50622|209800:1-12!
 
 # Yoru wa Neko to Issho -> ~ Season 2
 - 51692|46090|148042:31-60 -> 54198|46974|160088:1-30!
