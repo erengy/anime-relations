@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-07-12
+- last_modified: 2026-07-26
 
 ::rules
 
@@ -852,6 +852,8 @@
 
 # Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ Part 2
 - 39535|42323|108465:12-23 -> 45576|43907|127720:1-12!
+# Mushoku Tensei: Isekai Ittara Honki Dasu -> ~ Part 2 - Eris no Goblin Toubatsu
+- 39535|42323|108465:24 -> 50360|45492|141534:1!
 # Mushoku Tensei II: Isekai Ittara Honki Dasu -> ~ Part 2
 - 51179|45950|146065:13-24 -> 55888|47694|166873:1-12!
 
