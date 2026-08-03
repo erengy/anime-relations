@@ -903,7 +903,7 @@
 # Non Non Biyori Repeat -> ~ OVA
 - 23623|8410|20694:13 -> 32547|11767|21585:1
 
-# Odekake Kozame -> ~ Season 2
+# Odekake Kozame -> ~ 2nd Season
 - 55463|47497|165426:61-132 -> 63125|50459|204269:1-72!
 
 # Ojisan to Marshmallow -> ~ Special
