@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-07-28
+- last_modified: 2026-08-03
 
 ::rules
 
@@ -1082,6 +1082,9 @@
 
 # Shelter -> ~
 - 34240|12668|97731:0 -> ~|~|~:1
+
+# Shibou Yuugi de Meshi wo Kuu. -> ~ 44: Cloudy Beach
+- 59711|50337|180746:12 -> 63819|50646|209961:1
 
 # Shigofumi -> ~: Sore kara
 - 3420|2996|3420:13 -> 4715|3756|4715:1
