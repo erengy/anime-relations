@@ -783,6 +783,9 @@
 # Magic Knight Rayearth -> ~ II
 - 435|399|435:21-49 -> 1563|1403|1563:1-29!
 
+# Mahou no Shimai LuluttoLilly -> ~ Part 2
+- 59176|49677|178749:13-? -> 63667|50996|209032:1-?!
+
 # Mahoutsukai no Yome Season 2 -> ~ Part 2
 - 52955|46436|154364:13-24 -> 55742|47649|166452:1-12!
 
