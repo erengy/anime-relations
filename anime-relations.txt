@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-08-03
+- last_modified: 2026-10-02
 
 ::rules
 
@@ -1253,6 +1253,8 @@
 
 # Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 2nd Season
 - 55265|47481|164702:13-24 -> 59131|48979|178434:1-12!
+# Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 3rd Season
+- 55265|47481|164702:25-? -> 60601|49437|185756:1-?!
 
 # Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu -> ~ 2nd Season
 - 53516|46704|156415:13-24 -> 59095|48968|178090:1-12!
