@@ -1415,6 +1415,9 @@
 # Yama no Susume 2nd Season -> ~ Specials
 - 21435|8201|20485:25 -> 27887|9783|21003:2
 
+# Yasei no Last Boss ga Arawareta! -> ~ 2nd Season
+- 59644|49147|180523:13-? -> 63140|50404|204389:1-?!
+
 # Yomigaeru Sora: Rescue Wings -> ~ Special
 - 798|712|798:13 -> 1843|1660|1843:1
 
