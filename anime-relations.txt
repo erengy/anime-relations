@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-10-02
+- last_modified: 2026-10-11
 
 ::rules
 
@@ -146,6 +146,9 @@
 - 530|489|530:167-200 -> 996|886|996:1-34!
 # Bishoujo Senshi Sailor Moon Crystal -> ~ Season III
 - 14751|7163|14751:27-39 -> 31733|11415|21462:1-13!
+
+# Black Clover -> ~ 2nd Season
+- 34572|13209|97940:171-? -> 61967|50024|195604:1-?!
 
 # Black Lagoon -> ~: The Second Barrage
 - 889|789|889:13-24 -> 1519|1363|1519:1-12!
@@ -676,6 +679,9 @@
 
 # Kidou Senshi Gundam: Suisei no Majo -> ~ Season 2
 - 49828|45217|139274:13-24 -> 53199|46561|155158:1-12!
+
+# Kikansha no Mahou wa Tokubetsu desu -> ~ 2nd Season
+- 54852|47240|163142:13-? -> 57612|48397|172192:1-?!
 
 # Kimi ni Todoke 2nd Season -> ~: Kataomoi
 - 9656|5820|9656:0 -> 10152|6055|10152:1
