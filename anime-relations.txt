@@ -742,6 +742,8 @@
 
 # Kusuriya no Hitorigoto -> ~ 2nd Season
 - 54492|47083|161645:25-48 -> 58514|48649|176301:1-24!
+# Kusuriya no Hitorigoto -> ~ 3rd Season
+- 54492|47083|161645:49-60 -> 61987|50021|195516:1-12!
 
 # Kyokou Suiri -> ~ 2nd Season
 - 39017|42117|107201:13-24 -> 44204|43755|126529:1-12!
@@ -788,6 +790,9 @@
 
 # Magic Knight Rayearth -> ~ II
 - 435|399|435:21-49 -> 1563|1403|1563:1-29!
+
+# Mahou no Shimai LuluttoLilly -> ~ Part 2
+- 59176|49677|178749:13-? -> 63667|50996|209032:1-?!
 
 # Mahoutsukai no Yome Season 2 -> ~ Part 2
 - 52955|46436|154364:13-24 -> 55742|47649|166452:1-12!
@@ -1259,6 +1264,8 @@
 
 # Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 2nd Season
 - 55265|47481|164702:13-24 -> 59131|48979|178434:1-12!
+# Tensei Kizoku, Kantei Skill de Nariagaru -> ~ 3rd Season
+- 55265|47481|164702:25-? -> 60601|49437|185756:1-?!
 
 # Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu -> ~ 2nd Season
 - 53516|46704|156415:13-24 -> 59095|48968|178090:1-12!
