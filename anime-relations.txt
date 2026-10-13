@@ -310,6 +310,9 @@
 # Diamond no Ace OVA -> ~ Second Season OVA
 - 25341|8792|20861:4-5 -> 34349|12725|98582:1-2
 
+# Diamond no Ace act II Second Season -> ~ Part 2
+- 58877|48878|177634:14-25 -> 64505|50822|213658:1-12!
+
 # Dies Irae -> ~: Reimei
 - 32271|11212|?:0 -> 36524|13919|?:1
 
