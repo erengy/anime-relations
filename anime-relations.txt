@@ -737,6 +737,9 @@
 # Kono Subarashii Sekai ni Shukufuku wo! -> ~ OVA
 - 30831|10941|21202:11 -> 32380|11752|21574:1
 
+# Koori no Jouheki -> ~ 2nd Season
+- 60852|50465|186497:15-? -> 64534|50827|213805:1-?
+
 # Kore wa Zombie Desu ka? -> ~ OVA
 - 8841|5507|8841:13 -> 10209|6079|10209:1
 # Kore wa Zombie Desu ka? of the Dead -> Kore wa Zombie Desu ka? OVA
