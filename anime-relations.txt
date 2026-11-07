@@ -35,7 +35,7 @@
 - version: 1.3.0
 
 # Update this date when you add, remove or modify a rule.
-- last_modified: 2026-10-11
+- last_modified: 2026-10-15
 
 ::rules
 
@@ -104,6 +104,9 @@
 # Ao Haru Ride -> ~ OVA
 - 21995|8246|20596:0 -> 24151|8488|20837:1
 - 21995|8246|20596:13 -> 24151|8488|20837:2
+
+# Ao no Hako -> ~ Season 2
+- 57181|48239|170942:26-37 -> 61323|49752|189123:1-12
 
 # Ao Oni The Animation (Movie) -> ~
 - 33820|12478|21898:0 -> ~|~|~:1
